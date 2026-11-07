@@ -1,0 +1,1703 @@
+{
+  "source": "https://vatsaltanna.com/traveltoinfinity/",
+  "failed": [
+    "assets/web.bin.gz"
+  ],
+  "files": [
+    {
+      "path": "assets/cmb-planck-2k.jpg",
+      "bytes": 1242730,
+      "sha256": "218f876421bdf46f04ef1cfa45045308c7c68dc60f54fbd8a39d8e56dcff4524"
+    },
+    {
+      "path": "assets/cmb-planck.jpg",
+      "bytes": 4128702,
+      "sha256": "7b58888b14be3a5a5583f8a369dd22f4e8a9744b244bc2a3c2006bdd31fd8969"
+    },
+    {
+      "path": "assets/deep-fields-1k.jpg",
+      "bytes": 346729,
+      "sha256": "3dfabe516f0ad444ebc27fe5761370205208127f73b6f4d2a4c2f19238852a9e"
+    },
+    {
+      "path": "assets/deep-fields-1k.ktx2",
+      "bytes": 511396,
+      "sha256": "a3e08cacb3eb0e70fa7d79cfaefe41c851891d9b0d50a9f603ef24aa190178bf"
+    },
+    {
+      "path": "assets/deep-fields.0.ktx2",
+      "bytes": 432852,
+      "sha256": "1deb461dfaa6bca1bafc5a70ec689bc2d06e739c495b97d08b758825ab3c6925"
+    },
+    {
+      "path": "assets/deep-fields.1.ktx2",
+      "bytes": 433739,
+      "sha256": "30d4602bd8157b67f62decdee42dc5d17f69920cad80b0aa1d203f3ea471e507"
+    },
+    {
+      "path": "assets/deep-fields.2.ktx2",
+      "bytes": 430585,
+      "sha256": "2e1d5394410660de89a400c55490b14405f3cab5b018e9c9efed2968955d0de9"
+    },
+    {
+      "path": "assets/deep-fields.3.ktx2",
+      "bytes": 434581,
+      "sha256": "c0936b20a33344a0ea5bc2b2181ec9c1a2ed1971b588dbd9487064a80610b55f"
+    },
+    {
+      "path": "assets/deep-fields.jpg",
+      "bytes": 1620721,
+      "sha256": "c8be40798712666cb6cf46e32701fa048bcaf04d5106dd994f5c26a31f1ed963"
+    },
+    {
+      "path": "assets/earth-clouds-4k.jpg",
+      "bytes": 1717390,
+      "sha256": "04c27cbe5e7b8996107df59b6d7d25dae676e773e404fee3bc2e71cba7d79e2d"
+    },
+    {
+      "path": "assets/earth-clouds-4k.ktx2",
+      "bytes": 1541812,
+      "sha256": "9f87590fc7fabb271721a6093bdc6fa2de9ebe2bac7646cf49fd5fc1772bcff9"
+    },
+    {
+      "path": "assets/earth-clouds.0.ktx2",
+      "bytes": 1473832,
+      "sha256": "fbcfce316e9371c56cfefd0334e2eef3d82b68d1bdfca9c8f9feda84d0b71500"
+    },
+    {
+      "path": "assets/earth-clouds.1.ktx2",
+      "bytes": 1449716,
+      "sha256": "20e3a7e4ef748f4abede548bb134c35fc0b66abcd596d98ae6685a0ab783ae75"
+    },
+    {
+      "path": "assets/earth-clouds.2.ktx2",
+      "bytes": 1482386,
+      "sha256": "d4329b4203c7e25897ec9b6e1dbb380156b3ff53d6db5021ddc1d18c7df91d75"
+    },
+    {
+      "path": "assets/earth-clouds.3.ktx2",
+      "bytes": 1444363,
+      "sha256": "e54608d380d813a0f3e7b3316435e078e53847a495c31303a07b7a737c3bebe8"
+    },
+    {
+      "path": "assets/earth-clouds.jpg",
+      "bytes": 5818135,
+      "sha256": "33930d2ea43ac04232814c0482c598a3ac297236340c2ad3221e266164a69220"
+    },
+    {
+      "path": "assets/earth-day-4k.jpg",
+      "bytes": 699000,
+      "sha256": "f3b98a17c381c7255ae86ac1a14c3b5e2f999aabfbe9c253f4ff3f18f01da374"
+    },
+    {
+      "path": "assets/earth-day-4k.ktx2",
+      "bytes": 729749,
+      "sha256": "f0dfca484071c69c1087782cd94933ddfc4ab6dce043e9abe30e400f22739994"
+    },
+    {
+      "path": "assets/earth-day.0.ktx2",
+      "bytes": 656614,
+      "sha256": "1fc3b7d7f6c0201cf1774272dd9e21e3652841f77db0683c5628c7924d2f6884"
+    },
+    {
+      "path": "assets/earth-day.1.ktx2",
+      "bytes": 1072290,
+      "sha256": "f67a2e50a5c03377542c8340a0129d74bd190935f69271a89d3f1cb77221714f"
+    },
+    {
+      "path": "assets/earth-day.2.ktx2",
+      "bytes": 438217,
+      "sha256": "8a476c8ab276b27758fd4ee4ecfb6e7f6f8fc0545c54f53b10ec8157c1c6eebd"
+    },
+    {
+      "path": "assets/earth-day.3.ktx2",
+      "bytes": 571987,
+      "sha256": "964c05e5a6603f466dda1262771f2a981c9b02dc6869deaa3c689e20180719f8"
+    },
+    {
+      "path": "assets/earth-day.jpg",
+      "bytes": 2386128,
+      "sha256": "1fcc5e730bc3e9244cecda15b2228d310a60e436becb28ef5c49a9503dd66189"
+    },
+    {
+      "path": "assets/earth-night.jpg",
+      "bytes": 354269,
+      "sha256": "1e83cdf4ac364388a67cad8c5a33517c0f02d46a7436c27ddad7f8043efaea98"
+    },
+    {
+      "path": "assets/earth-night.ktx2",
+      "bytes": 418335,
+      "sha256": "73f087819af73ee4e51842e136cb38a328dc2ec3c31cdd592bed98b8b0f1cf45"
+    },
+    {
+      "path": "assets/egypt-1200km.jpg",
+      "bytes": 644139,
+      "sha256": "651d4c7393f4f5150769922400190702e07339e4a525fc2d07c39801c9bf5704"
+    },
+    {
+      "path": "assets/egypt-1200km.ktx2",
+      "bytes": 778744,
+      "sha256": "a95a8c11377896a37214519c35530d06d45b2fdf19a25fd9a7a6dde5c7cd0caf"
+    },
+    {
+      "path": "assets/figure.bin",
+      "bytes": 561944,
+      "sha256": "b95f5ec2f7f2288d4f92827563271f5305191665ad3a2fe04969e6d1951f56c2"
+    },
+    {
+      "path": "assets/figure.bin.gz",
+      "bytes": 420463,
+      "sha256": "9b8455efb20cf4a8b35a36e1a11793ca464f844c7dffa13eb117327f8c6f1c99"
+    },
+    {
+      "path": "assets/fonts/archivo.woff2",
+      "bytes": 41440,
+      "sha256": "e0dfa85f0a53992f90045fe1c3b8b746b66addaecb7723693f5f7e9a97c94863"
+    },
+    {
+      "path": "assets/galaxies.bin",
+      "bytes": 304249,
+      "sha256": "f61ef43bfafb205a638024932807f5a0ce31854c91e5efc58f7e987d86e7b058"
+    },
+    {
+      "path": "assets/galaxies.bin.gz",
+      "bytes": 281593,
+      "sha256": "9e0e5d99581ebab1720dc89b075590d26f5cbdea5dd112c30720e29c98e5cb66"
+    },
+    {
+      "path": "assets/galaxies/antennae-s.jpg",
+      "bytes": 16497,
+      "sha256": "fc27b584b5c901865795755b8cf15c58e508fd68af3355d568dc0460fe74dd3b"
+    },
+    {
+      "path": "assets/galaxies/antennae-s.ktx2",
+      "bytes": 40513,
+      "sha256": "27d77226b6fdcb49c9b3c118d9d6e5946ed566280acc630880f7cd917885706f"
+    },
+    {
+      "path": "assets/galaxies/antennae.jpg",
+      "bytes": 50594,
+      "sha256": "53c7bb1d58a828174dd7a175315b13faa96f3f496b2bf53b543e900c27b3b53b"
+    },
+    {
+      "path": "assets/galaxies/antennae.ktx2",
+      "bytes": 131316,
+      "sha256": "365f257a6d08f35b05e6819b286906ddf0fb7353788f7e141e1250bc67452c2c"
+    },
+    {
+      "path": "assets/galaxies/ic10-s.jpg",
+      "bytes": 48989,
+      "sha256": "82903fe905ff93521dd1db7a141eb67f5668ce887b1885a360ae9a4abbd53690"
+    },
+    {
+      "path": "assets/galaxies/ic10-s.ktx2",
+      "bytes": 80303,
+      "sha256": "839a21dcd89419db7d8fecc342a3687c7abb3eb7abd52cdeb2138fb49f8a94b1"
+    },
+    {
+      "path": "assets/galaxies/ic10.jpg",
+      "bytes": 174717,
+      "sha256": "8346848c716c1bc6ff623121c7ac2ddd72f4aadb00d529fbd3015f667fae1c63"
+    },
+    {
+      "path": "assets/galaxies/ic10.ktx2",
+      "bytes": 220398,
+      "sha256": "efaf1446d273e70556f6e43820394c95aa1bb8f855dfc7462be431b5a4ed2b3b"
+    },
+    {
+      "path": "assets/galaxies/ic1613-s.jpg",
+      "bytes": 43553,
+      "sha256": "6a7c0e57d5c2998ebec0107bda9ef26563361fe0bc70406c35182c7b096ee953"
+    },
+    {
+      "path": "assets/galaxies/ic1613-s.ktx2",
+      "bytes": 77711,
+      "sha256": "b653c1c7e0b286cefe15e9ea3eef7bf246786be37becbbe92f478a7e3a4bc982"
+    },
+    {
+      "path": "assets/galaxies/ic1613.jpg",
+      "bytes": 198528,
+      "sha256": "3c49f8d94a61502bd4b7f831f5dad419fba0a40c75392592ec6f221a71aabb1c"
+    },
+    {
+      "path": "assets/galaxies/ic1613.ktx2",
+      "bytes": 218513,
+      "sha256": "19f66d4e8dc97e7d810fe67c2e0d88f288d105fe26c07e0bba3b99fb4eb00619"
+    },
+    {
+      "path": "assets/galaxies/lmc-s.jpg",
+      "bytes": 167416,
+      "sha256": "b05e21218ef0d3f7a043b9a8f638fa5e7ba78f20ea36d69f5f94e6d6cd388ac1"
+    },
+    {
+      "path": "assets/galaxies/lmc-s.ktx2",
+      "bytes": 225630,
+      "sha256": "d9b3115334012c07c623e7a9d05df080c389d09d40501773558af3b118f56e98"
+    },
+    {
+      "path": "assets/galaxies/lmc.jpg",
+      "bytes": 672087,
+      "sha256": "3889ef1bf11148e8e8d48958d95b10ca61267f5f8986d62eef5435691cdecfc3"
+    },
+    {
+      "path": "assets/galaxies/lmc.ktx2",
+      "bytes": 813037,
+      "sha256": "0ed3309d552fb88a4c0658134b9987dc492aa78445ee240023ceb1663e604744"
+    },
+    {
+      "path": "assets/galaxies/m101-s.jpg",
+      "bytes": 18997,
+      "sha256": "d48caca7ad04b599264404010210243f30db4496d86291b3f7d6d7e3c79af817"
+    },
+    {
+      "path": "assets/galaxies/m101-s.ktx2",
+      "bytes": 38867,
+      "sha256": "70865fd9a6aa68b428516e3e7f05b85f433aef427e6157ea0d9d6276a5f35f6f"
+    },
+    {
+      "path": "assets/galaxies/m101.jpg",
+      "bytes": 58150,
+      "sha256": "f09e348b68ffe3e47df7c4573be0da6d22ddfe05353a40b796e6fdee21c9ae87"
+    },
+    {
+      "path": "assets/galaxies/m101.ktx2",
+      "bytes": 109557,
+      "sha256": "43fb229222973bb56ce4015c3595db4c2c54e1b8ca26739ee40bee18f8af966a"
+    },
+    {
+      "path": "assets/galaxies/m104-s.jpg",
+      "bytes": 13838,
+      "sha256": "8c6c5233a0512d4259abe4482f4933d73cf0c75c9e20759b23681754c290ed63"
+    },
+    {
+      "path": "assets/galaxies/m104-s.ktx2",
+      "bytes": 30647,
+      "sha256": "5bae4ef54435e834823e666d90957fb24cf7fa08b2edac87026293689e623bc8"
+    },
+    {
+      "path": "assets/galaxies/m104.jpg",
+      "bytes": 59917,
+      "sha256": "b9311d261970d48862b27dde2ed896c0cb68e96856a38b459a8ed62302f284d6"
+    },
+    {
+      "path": "assets/galaxies/m104.ktx2",
+      "bytes": 127821,
+      "sha256": "e5583b55e80eb21fe3cc6476d588bcd8391f28e132a7b2e4cece553bea89f4bd"
+    },
+    {
+      "path": "assets/galaxies/m106-s.jpg",
+      "bytes": 23539,
+      "sha256": "beaef0e4a87d7c2dd1d0d39ff5cd68cf3a3aefcef4d330dc3b324ef3b02e4c2b"
+    },
+    {
+      "path": "assets/galaxies/m106-s.ktx2",
+      "bytes": 53191,
+      "sha256": "a72343a15a64666f8ec268fcbf617f7368b6dfccefd21431656b9911f8bfbc84"
+    },
+    {
+      "path": "assets/galaxies/m106.jpg",
+      "bytes": 131390,
+      "sha256": "8dccf9204778d3589a0df3cf7b005f6dd6035af581f2432f36dbc33a33d1867b"
+    },
+    {
+      "path": "assets/galaxies/m106.ktx2",
+      "bytes": 207057,
+      "sha256": "42823b1c36481ca52140e3a96e01354539a231839c375d5d882ee6454f86ab5f"
+    },
+    {
+      "path": "assets/galaxies/m110-s.jpg",
+      "bytes": 26552,
+      "sha256": "e1eeedd955cdb0c04b26c43c1338ffc49e3c5a8170671e9fd1b83bb1249a8a2f"
+    },
+    {
+      "path": "assets/galaxies/m110-s.ktx2",
+      "bytes": 60031,
+      "sha256": "0ab9e59a13f8a205ed223bbfc9820621e1380639d2fcf8cafdd61f77d6f5b26f"
+    },
+    {
+      "path": "assets/galaxies/m110.jpg",
+      "bytes": 104994,
+      "sha256": "9627186076582ba610bd49a0bcfe67471b7d4ee49e32b4b4700ff23908b7a9ef"
+    },
+    {
+      "path": "assets/galaxies/m110.ktx2",
+      "bytes": 182666,
+      "sha256": "e5d696dbb0c49ea31dacc23963a5a6926f23f42e960e17eaf4c4610ba334a094"
+    },
+    {
+      "path": "assets/galaxies/m31-s.jpg",
+      "bytes": 102745,
+      "sha256": "02b7fff65942e3e1a7ad8c8ff11b972a3cc47e47a85db4b6d210e686eef81415"
+    },
+    {
+      "path": "assets/galaxies/m31-s.ktx2",
+      "bytes": 187222,
+      "sha256": "dbc1050e935bab7bce5f09006e035a51dcdfdbab1a041a1a77f6cf422e8f05d6"
+    },
+    {
+      "path": "assets/galaxies/m31.jpg",
+      "bytes": 517411,
+      "sha256": "be8c17f0a875d4969a76519d4c3816bad2fd8f3963db0bf33df80890abe84701"
+    },
+    {
+      "path": "assets/galaxies/m31.ktx2",
+      "bytes": 669374,
+      "sha256": "a69fccc5026ab3e656d8625e1f4e1aa803472e0c078777401af593c0adb97203"
+    },
+    {
+      "path": "assets/galaxies/m33-s.jpg",
+      "bytes": 145143,
+      "sha256": "94a9945ea1a4a42cde3bd88f5320c3787b159557ac18853a85790fca02107537"
+    },
+    {
+      "path": "assets/galaxies/m33-s.ktx2",
+      "bytes": 190980,
+      "sha256": "dbd2891299e70ec583069594458299ca057f8608bf4d2f83cdb4fece5df7cb83"
+    },
+    {
+      "path": "assets/galaxies/m33.jpg",
+      "bytes": 620570,
+      "sha256": "ec99bd7366ce70265d90b719321a5dec95b9cc6d3181e4f53a923a04e041825b"
+    },
+    {
+      "path": "assets/galaxies/m33.ktx2",
+      "bytes": 685288,
+      "sha256": "1f0b2601cf738309631e556e4248419137578be89c9925ef13834b4cff7520f5"
+    },
+    {
+      "path": "assets/galaxies/m51-s.jpg",
+      "bytes": 17688,
+      "sha256": "e665e1ab5af4c9c7f5989ff85436310373149f69c2c5ebe46f0253c487bd90db"
+    },
+    {
+      "path": "assets/galaxies/m51-s.ktx2",
+      "bytes": 33023,
+      "sha256": "b599cb8b576108ef947b28760fef184d3c08474304c4a4ef959f0a684c784623"
+    },
+    {
+      "path": "assets/galaxies/m51.jpg",
+      "bytes": 60442,
+      "sha256": "cf44ea267b77099652077c434c51f15aec44ceca3eff55872c6a74251f7cff29"
+    },
+    {
+      "path": "assets/galaxies/m51.ktx2",
+      "bytes": 105158,
+      "sha256": "c02d7ddc3f1fa5c49d465c18553c5501b04efe34f48c7f8549df8d23169d37a5"
+    },
+    {
+      "path": "assets/galaxies/m63-s.jpg",
+      "bytes": 6846,
+      "sha256": "e1e7f36338ec7a295152ca15ac3bf410cf6fbebac3d2dbe8371d625b9752951b"
+    },
+    {
+      "path": "assets/galaxies/m63-s.ktx2",
+      "bytes": 17981,
+      "sha256": "0105b7a73dff551cca3761475e87ec5f5f392f922f842fc884f84303c28da08d"
+    },
+    {
+      "path": "assets/galaxies/m63.jpg",
+      "bytes": 21254,
+      "sha256": "b7040f89aa4c2d2a8e8e2fe8bb33c0316be44acd1358776c29755b1f0cfe25fa"
+    },
+    {
+      "path": "assets/galaxies/m63.ktx2",
+      "bytes": 55391,
+      "sha256": "a6d515df4057988c5739136a060236e9836e34527bfb3432b4a548ff0a535c4f"
+    },
+    {
+      "path": "assets/galaxies/m64-s.jpg",
+      "bytes": 13106,
+      "sha256": "d160fec013c9c6be0425b5b4781541b6d1050b25be3dc59ac9b34a5ea0374f95"
+    },
+    {
+      "path": "assets/galaxies/m64-s.ktx2",
+      "bytes": 30031,
+      "sha256": "1b460065ed9111b4370e72ec50bac3c373c2615e8ff21dd14bbc2a399ed742ca"
+    },
+    {
+      "path": "assets/galaxies/m64.jpg",
+      "bytes": 54761,
+      "sha256": "b73ba54da9cd0d3eadaa9da49b361a60a132c2627d98e3ea2ec9dbc781640162"
+    },
+    {
+      "path": "assets/galaxies/m64.ktx2",
+      "bytes": 110141,
+      "sha256": "40fd16066ad279903b5b1394a50c0c250defd7b5b01c1e35eecc5b2b41a24c60"
+    },
+    {
+      "path": "assets/galaxies/m81-s.jpg",
+      "bytes": 18748,
+      "sha256": "79a0ac1b3ea0b3397350f219c1eb0bccd989dcb8ba8d664ebd97c2b761ffd85e"
+    },
+    {
+      "path": "assets/galaxies/m81-s.ktx2",
+      "bytes": 44917,
+      "sha256": "5e263a9b34529cd76beca4aae7c8bba1dc2c7ef5155a76069133904df9d0b6dd"
+    },
+    {
+      "path": "assets/galaxies/m81.jpg",
+      "bytes": 53879,
+      "sha256": "c04242891ceccbc9001d4de8c1a1cd467d7f2a2430de9389b7ff1b908078053b"
+    },
+    {
+      "path": "assets/galaxies/m81.ktx2",
+      "bytes": 133391,
+      "sha256": "03f26dca2b494b76ff7a518c657cddbfe876044311ad37b823fc0fd97427a9e7"
+    },
+    {
+      "path": "assets/galaxies/m82-s.jpg",
+      "bytes": 21480,
+      "sha256": "ec721af366bce61b7345456ceed2a762a034ac240b31da74448e913c2d77b5f3"
+    },
+    {
+      "path": "assets/galaxies/m82-s.ktx2",
+      "bytes": 45099,
+      "sha256": "b1897e202572f2c797987391581708121793490afce506672e5815ae084fb60a"
+    },
+    {
+      "path": "assets/galaxies/m82.jpg",
+      "bytes": 67846,
+      "sha256": "d6acf97e671c1e43019ab7288a31a79cdbfbba9d9cd6c42437093d5575a13f6f"
+    },
+    {
+      "path": "assets/galaxies/m82.ktx2",
+      "bytes": 140323,
+      "sha256": "1a53c9cd2f1b0ebc5d0959882d159ec2f1380f043903bceb35941420fb7128d9"
+    },
+    {
+      "path": "assets/galaxies/m83-s.jpg",
+      "bytes": 36168,
+      "sha256": "969abb5cf56ad793931fc174eea127f963e8f77d05708c46fcd1b851ef8c9558"
+    },
+    {
+      "path": "assets/galaxies/m83-s.ktx2",
+      "bytes": 67539,
+      "sha256": "10c3aa6431b938ff647fb081480ddd844551f47cb108f3c236e97bcac8465c40"
+    },
+    {
+      "path": "assets/galaxies/m83.jpg",
+      "bytes": 116349,
+      "sha256": "9f9785c407950698e3ce94aa061c0f81852e1017690a5e98a2a451961a8e0f2c"
+    },
+    {
+      "path": "assets/galaxies/m83.ktx2",
+      "bytes": 173837,
+      "sha256": "37650570cdc79f0cb95398c3bf118d9ae5d215c655c9ab9d8e2dc4d7f4a50c99"
+    },
+    {
+      "path": "assets/galaxies/m87-s.jpg",
+      "bytes": 8733,
+      "sha256": "aa9d5a3bdc84cf9dd5ba40cc23c46e3a33543b7266df6004764d2114b6345a04"
+    },
+    {
+      "path": "assets/galaxies/m87-s.ktx2",
+      "bytes": 23954,
+      "sha256": "07e0faaa0c09913f4ff310300530c67f0a7d998486d300d9ad1df1d9355f3cdd"
+    },
+    {
+      "path": "assets/galaxies/m87.jpg",
+      "bytes": 45807,
+      "sha256": "1801026a785b62a0857a3e35cb4ac91ad42c94d6c449c3d56512386cd61e3376"
+    },
+    {
+      "path": "assets/galaxies/m87.ktx2",
+      "bytes": 95541,
+      "sha256": "7e4453c6e705d71d6ea5129a8f5dd8b04be88114b267966b4f4267bd323b50da"
+    },
+    {
+      "path": "assets/galaxies/neb-b33-s.jpg",
+      "bytes": 26767,
+      "sha256": "65e0327a3ef65fec9aba728abff470c579741572450587858ea2d491f1ff8b4b"
+    },
+    {
+      "path": "assets/galaxies/neb-b33-s.ktx2",
+      "bytes": 63260,
+      "sha256": "ee243ee37f85537c372fd93a448d8cb9d3da9bfb12247a9c4ac2a5bf490b4e0b"
+    },
+    {
+      "path": "assets/galaxies/neb-b33.jpg",
+      "bytes": 86903,
+      "sha256": "c21352321adb1380c6eecc81efa9ad7744fcaf444e26c2c9bb42da0692e7f758"
+    },
+    {
+      "path": "assets/galaxies/neb-b33.ktx2",
+      "bytes": 174494,
+      "sha256": "950a14f7f1ff6b1f55f950b9c31d05b368b68a64297655b70780b91705a06e51"
+    },
+    {
+      "path": "assets/galaxies/neb-m1-s.jpg",
+      "bytes": 50869,
+      "sha256": "0522f0df613c1c9c17bd3fbf84220472c30d84065f8461186073551a52eaa3b7"
+    },
+    {
+      "path": "assets/galaxies/neb-m1-s.ktx2",
+      "bytes": 78778,
+      "sha256": "cc411d93fe607d9d1dcc83a8891436dc597e0b57fcc4a878d6f0181cdd351e55"
+    },
+    {
+      "path": "assets/galaxies/neb-m1.jpg",
+      "bytes": 168948,
+      "sha256": "85dd712eda35a6d1b019f70872c47f2cf24fd023810cdf554c04d1024d232546"
+    },
+    {
+      "path": "assets/galaxies/neb-m1.ktx2",
+      "bytes": 192442,
+      "sha256": "4e5747bde4e68a599e3d475a106986c3a33d322a3f1a4d78850ac3c2e2052879"
+    },
+    {
+      "path": "assets/galaxies/neb-m16-s.jpg",
+      "bytes": 41488,
+      "sha256": "00813fc7e14046529022e6ab2bdc60998dc25314f9e0fb49d66694d8ed3195a1"
+    },
+    {
+      "path": "assets/galaxies/neb-m16-s.ktx2",
+      "bytes": 81959,
+      "sha256": "4669408eb9ac75ccbaa28a9e12e74f64c69fcd1077a8e793793d02f227aaa720"
+    },
+    {
+      "path": "assets/galaxies/neb-m16.jpg",
+      "bytes": 211637,
+      "sha256": "7a9c7d1882fe60468553a67d60f1a507253f1c27bc88dd574919f80e8e9d1be9"
+    },
+    {
+      "path": "assets/galaxies/neb-m16.ktx2",
+      "bytes": 240624,
+      "sha256": "d310207eaaebe110b734dde57be47d787cddc73be867365a1b13c14dd6364102"
+    },
+    {
+      "path": "assets/galaxies/neb-m17-s.jpg",
+      "bytes": 75966,
+      "sha256": "dcef70ac45fca182cd9185b219b0a4c82be0fc66da1abf458ef655be72db3c80"
+    },
+    {
+      "path": "assets/galaxies/neb-m17-s.ktx2",
+      "bytes": 99901,
+      "sha256": "8c266fbd2f2f45dddae161e62c91e6df0076968b548c5aa9fa79f2d8f7001ec6"
+    },
+    {
+      "path": "assets/galaxies/neb-m17.jpg",
+      "bytes": 293859,
+      "sha256": "e7e5ed13d8b14977515a7f7f9c7857a2e3a572bfd76b00d8e66179a9a6ad871a"
+    },
+    {
+      "path": "assets/galaxies/neb-m17.ktx2",
+      "bytes": 290106,
+      "sha256": "eb580135f220f3b1825cf864a0b0085aeb08ffd3dd8affe5a1c0a2b7eddefcca"
+    },
+    {
+      "path": "assets/galaxies/neb-m20-s.jpg",
+      "bytes": 64035,
+      "sha256": "08f36e217590021187e8da8c97357b5ebcb7e39c7b194156db7fd276bd19eab0"
+    },
+    {
+      "path": "assets/galaxies/neb-m20-s.ktx2",
+      "bytes": 95705,
+      "sha256": "cad1095335add894613ad76c0457e544b3ae5ba57a962938b350287ba9cfbb9b"
+    },
+    {
+      "path": "assets/galaxies/neb-m20.jpg",
+      "bytes": 243750,
+      "sha256": "7076b3165d541cf5fdb42bd18ef4e64a923734808252fb43d7cc4319357bdd73"
+    },
+    {
+      "path": "assets/galaxies/neb-m20.ktx2",
+      "bytes": 272774,
+      "sha256": "fd09f0f996acea16a47e74c503a987f45272fe922ddb5f1a2f7ca8f62a2564c0"
+    },
+    {
+      "path": "assets/galaxies/neb-m27-s.jpg",
+      "bytes": 78263,
+      "sha256": "9322b4af7e411abade481a722a773a516d9ab2c42e6a75052d9bb41094d42575"
+    },
+    {
+      "path": "assets/galaxies/neb-m27-s.ktx2",
+      "bytes": 91814,
+      "sha256": "2b1a5c8cb309e824eee98dae34b4684b9fa32b0cd759d96e03ea519c75ce1914"
+    },
+    {
+      "path": "assets/galaxies/neb-m27.jpg",
+      "bytes": 284248,
+      "sha256": "da569aa097f5615d3fa218c25d593668b1f7fabcec60d66df8da8a1f55d20489"
+    },
+    {
+      "path": "assets/galaxies/neb-m27.ktx2",
+      "bytes": 257684,
+      "sha256": "0b4eb798aa3557d69fb0040c7378d7f501a6d35284eb9e2167ff54cbffb3e99f"
+    },
+    {
+      "path": "assets/galaxies/neb-m42-s.jpg",
+      "bytes": 27380,
+      "sha256": "243a180a9e8a5d2fc3de95dde66afddc0f993e08aaf9020550182b84d7cc636f"
+    },
+    {
+      "path": "assets/galaxies/neb-m42-s.ktx2",
+      "bytes": 67396,
+      "sha256": "d61593290aa42cf07d32ef2f723a7c2537fb1700a0acd37bcbaab42c2ebccce7"
+    },
+    {
+      "path": "assets/galaxies/neb-m42.jpg",
+      "bytes": 86443,
+      "sha256": "f9a97abd7478c8db17e4e4691d681a58ccd06b79d2946b697c9301232df8b8d1"
+    },
+    {
+      "path": "assets/galaxies/neb-m42.ktx2",
+      "bytes": 185329,
+      "sha256": "5bbc7218971455aab0231d8718ad215298b033c409ecdaa33f6734315bf39828"
+    },
+    {
+      "path": "assets/galaxies/neb-m45-s.jpg",
+      "bytes": 28718,
+      "sha256": "a3487581f360d1d19c7bfba72a94aa05530163289402af9e01b4ca1ccc1a07bb"
+    },
+    {
+      "path": "assets/galaxies/neb-m45-s.ktx2",
+      "bytes": 66349,
+      "sha256": "e87c5719f0f25595881edccacc367c3af8fa3cd7f77ee0a0aac20fcf09d43881"
+    },
+    {
+      "path": "assets/galaxies/neb-m45.jpg",
+      "bytes": 96551,
+      "sha256": "97278915ebb908cab96f408d27b49f02626dddaa3052feacbb0ec371214a135d"
+    },
+    {
+      "path": "assets/galaxies/neb-m45.ktx2",
+      "bytes": 184076,
+      "sha256": "20d0e1e0fc2bcbf58455398deac48a0619ba8de85fd7b04b94232d200a6404e8"
+    },
+    {
+      "path": "assets/galaxies/neb-m57-s.jpg",
+      "bytes": 20600,
+      "sha256": "a043fb6d021ebc7a9b8039c9514e6430684ce66ff8bbdc5b194bc39f30ad9a34"
+    },
+    {
+      "path": "assets/galaxies/neb-m57-s.ktx2",
+      "bytes": 43760,
+      "sha256": "dadac8c786f1a0568ed060121d15d2d4c39da25b018535533c886bae2a4d8692"
+    },
+    {
+      "path": "assets/galaxies/neb-m57.jpg",
+      "bytes": 61039,
+      "sha256": "bd5f131caaec924f73c9c337f65e1f319d7ee55b34dc367ef7c2b98b99dd6b42"
+    },
+    {
+      "path": "assets/galaxies/neb-m57.ktx2",
+      "bytes": 124975,
+      "sha256": "83b7a7ca716ae509fe7634cc1d0a96d82366ccb6316074f26397760b9ada3f06"
+    },
+    {
+      "path": "assets/galaxies/neb-m8-s.jpg",
+      "bytes": 61588,
+      "sha256": "18cf4a9853e29e98ac03990b120766220ee0739d9233877fb0256e2d527a9ba3"
+    },
+    {
+      "path": "assets/galaxies/neb-m8-s.ktx2",
+      "bytes": 90417,
+      "sha256": "478932bb266656bc67bf3165fdb23ea1efe13cf21ba77c56c3c32c08ed2dcac8"
+    },
+    {
+      "path": "assets/galaxies/neb-m8.jpg",
+      "bytes": 309621,
+      "sha256": "8789607cc782c6eafdb615bcee3db8ec46809896e1f260a470f98fce39315fad"
+    },
+    {
+      "path": "assets/galaxies/neb-m8.ktx2",
+      "bytes": 266641,
+      "sha256": "22e50d59c8a5071bcb66d64d3b7839cdcd618c8cf46245e0651e4cecaad9d7ca"
+    },
+    {
+      "path": "assets/galaxies/neb-ngc2244-s.jpg",
+      "bytes": 44469,
+      "sha256": "a4cd785fa2252f64e864c35dec2e60506fb4395129595f85a908d5dec423d967"
+    },
+    {
+      "path": "assets/galaxies/neb-ngc2244-s.ktx2",
+      "bytes": 92096,
+      "sha256": "cb00b8786036d23894857c03771dd92f0db5deb34f6ad5543fbb628eb810d28b"
+    },
+    {
+      "path": "assets/galaxies/neb-ngc2244.jpg",
+      "bytes": 163290,
+      "sha256": "ad575e197e07d4bc5803ee17d09b8526bfd83a075e13b470ae599b1dd17038d6"
+    },
+    {
+      "path": "assets/galaxies/neb-ngc2244.ktx2",
+      "bytes": 254266,
+      "sha256": "3e503c7ac9325d452e1543105d2dcd117d6ad6466fae5895ad8879556150a2b1"
+    },
+    {
+      "path": "assets/galaxies/neb-ngc3372-s.jpg",
+      "bytes": 35252,
+      "sha256": "9446b7ec41bc1fc74a5a91f50c4291477ab0b4c321b83297e477ac657916db1d"
+    },
+    {
+      "path": "assets/galaxies/neb-ngc3372-s.ktx2",
+      "bytes": 79638,
+      "sha256": "9b2e77226557613393eff0ef72d6d0a9c5952024d6bceaab31ce7d05c711fce2"
+    },
+    {
+      "path": "assets/galaxies/neb-ngc3372.jpg",
+      "bytes": 146279,
+      "sha256": "ed0870d1a0f5c7b452c7f28d2057c6ab7c05a46e94f43a8348b3880c1e2bf989"
+    },
+    {
+      "path": "assets/galaxies/neb-ngc3372.ktx2",
+      "bytes": 227525,
+      "sha256": "6dbb14c9c836944f7999e760a2db8e35dd1ca1b93f5be35e947481483eb7253c"
+    },
+    {
+      "path": "assets/galaxies/neb-ngc6543-s.jpg",
+      "bytes": 30899,
+      "sha256": "2c0599fd902501a08676b7b837878e8c835df949a3b7e7099cae5c37549879ea"
+    },
+    {
+      "path": "assets/galaxies/neb-ngc6543-s.ktx2",
+      "bytes": 66613,
+      "sha256": "1bdab9a386e257665e9f4ddd4868154342a8b4b92502a83aaf3811890ce87c22"
+    },
+    {
+      "path": "assets/galaxies/neb-ngc6543.jpg",
+      "bytes": 103513,
+      "sha256": "714d92bfaaa4288757af3cb6355ff612a56bdadb514fb1a95bdca305429a27da"
+    },
+    {
+      "path": "assets/galaxies/neb-ngc6543.ktx2",
+      "bytes": 184063,
+      "sha256": "386652efbbba673a7cd5531debb24b8432dd7007c3afbd7b167eeea434eb0ca8"
+    },
+    {
+      "path": "assets/galaxies/neb-ngc7000-s.jpg",
+      "bytes": 56101,
+      "sha256": "37f35260b474cd83c297dc28a168a72045966dc695469446505a4f95f0b2b3ab"
+    },
+    {
+      "path": "assets/galaxies/neb-ngc7000-s.ktx2",
+      "bytes": 92383,
+      "sha256": "bf5db8bbe3aa1b6f263d6cc495973b08dd40e12994ef149d0b40fadb9c183703"
+    },
+    {
+      "path": "assets/galaxies/neb-ngc7000.jpg",
+      "bytes": 279021,
+      "sha256": "404d2772b38c7ebad1c848ec2b8961110e3862bc681fe610d60e04d21722e5bb"
+    },
+    {
+      "path": "assets/galaxies/neb-ngc7000.ktx2",
+      "bytes": 274783,
+      "sha256": "806ddc826d6d319e0bc4fc21d14b13ec95cda75df9e5f3000baee2aa6a75fa94"
+    },
+    {
+      "path": "assets/galaxies/neb-ngc7293-s.jpg",
+      "bytes": 65299,
+      "sha256": "a5d8a1d2b21ab4a719ed38b3cb0da52c12601cba29c32655ff1fa60ab8caba2f"
+    },
+    {
+      "path": "assets/galaxies/neb-ngc7293-s.ktx2",
+      "bytes": 90629,
+      "sha256": "13d49f7914f2d25a392ab8fc8a7659d21ae38e5eb61741cde4320bb61f929d58"
+    },
+    {
+      "path": "assets/galaxies/neb-ngc7293.jpg",
+      "bytes": 246262,
+      "sha256": "2d6e91c27b9105a7778f3b383084382c2907969f2973d7074dd01209ae7b1db1"
+    },
+    {
+      "path": "assets/galaxies/neb-ngc7293.ktx2",
+      "bytes": 257877,
+      "sha256": "625db6263ff62c1c91fa00e22eaaf9c7e7f0c36f3ea3018225a6ab9f655d39d6"
+    },
+    {
+      "path": "assets/galaxies/ngc1300-s.jpg",
+      "bytes": 20086,
+      "sha256": "f13e6ffa1341a16e89f327d0e1057712f20348f23d0a85cdead7bf4973ed21af"
+    },
+    {
+      "path": "assets/galaxies/ngc1300-s.ktx2",
+      "bytes": 47268,
+      "sha256": "8de7ff6acb89a655baa562e0be8189b2e6c06a8aa32226d6749f41d5824222e7"
+    },
+    {
+      "path": "assets/galaxies/ngc1300.jpg",
+      "bytes": 76894,
+      "sha256": "896a0ae3faec959089bb63437e3bbe900cb2e83a0b8ac7e800761f54a2b9b9e6"
+    },
+    {
+      "path": "assets/galaxies/ngc1300.ktx2",
+      "bytes": 173506,
+      "sha256": "6a97dec3a45a371f5fdf55a4f5598ad9567b26be0afbccb6a64865a8643c273e"
+    },
+    {
+      "path": "assets/galaxies/ngc2403-s.jpg",
+      "bytes": 30934,
+      "sha256": "1330c82be097096300ddf85d3cf3ec047be15d25bf983c7d384a61820c67470f"
+    },
+    {
+      "path": "assets/galaxies/ngc2403-s.ktx2",
+      "bytes": 64587,
+      "sha256": "3b836f256a786e87491ae985a3be6f9cfc94a926d1fdde4667798bef0f0907e8"
+    },
+    {
+      "path": "assets/galaxies/ngc2403.jpg",
+      "bytes": 110920,
+      "sha256": "b5c045ee184c0576edc0379949fea9cea8f2ce3319b0445ccb2e8a2d577c8aff"
+    },
+    {
+      "path": "assets/galaxies/ngc2403.ktx2",
+      "bytes": 178213,
+      "sha256": "a605e469c73d418820b760dfa44d2b90a80649e15673064df80ea97d64c9da2d"
+    },
+    {
+      "path": "assets/galaxies/ngc253-s.jpg",
+      "bytes": 18239,
+      "sha256": "b895093a57f08594218e3e6d29dd7e406212db58403f817c679e05cdf0be4961"
+    },
+    {
+      "path": "assets/galaxies/ngc253-s.ktx2",
+      "bytes": 42713,
+      "sha256": "fa62034a097b284476c0ce470aa781c96eaaa601318ddeb3eb9373d53f030809"
+    },
+    {
+      "path": "assets/galaxies/ngc253.jpg",
+      "bytes": 61074,
+      "sha256": "f70dfab9de85bfdbe6d2bc41e22c31ff3c00b79d5586dab1db67b264da1d6e41"
+    },
+    {
+      "path": "assets/galaxies/ngc253.ktx2",
+      "bytes": 131901,
+      "sha256": "57a50fbeca12013a7de06c57d2a492a0f7be038ff0d15ebc5b68f60081eeceb5"
+    },
+    {
+      "path": "assets/galaxies/ngc4565-s.jpg",
+      "bytes": 8581,
+      "sha256": "1ca028b83c7326674302f38cba5926528e334223383500d6a2f892dde74ba666"
+    },
+    {
+      "path": "assets/galaxies/ngc4565-s.ktx2",
+      "bytes": 19510,
+      "sha256": "76b693377f5134b606d3a32c3717c00b9bbed8d0c3b696b9e43813016366c618"
+    },
+    {
+      "path": "assets/galaxies/ngc4565.jpg",
+      "bytes": 28976,
+      "sha256": "6b086eab0fa1e90d722291272cde902e91410142beb87fd66a983d092fd12606"
+    },
+    {
+      "path": "assets/galaxies/ngc4565.ktx2",
+      "bytes": 66731,
+      "sha256": "6cfb515300b9d708e61385ad046b80c19d44c50b6e3a17a7312aa6aa81c15c62"
+    },
+    {
+      "path": "assets/galaxies/ngc5128-s.jpg",
+      "bytes": 49945,
+      "sha256": "1dcdc4c2a604aad32b96b4f475fee8a37054b9038245979f2334e93fbd3ee890"
+    },
+    {
+      "path": "assets/galaxies/ngc5128-s.ktx2",
+      "bytes": 83027,
+      "sha256": "845cc44bb075db5980d3b46d88ecd4fbf97beeed9a9ce6f01717303a01c6c374"
+    },
+    {
+      "path": "assets/galaxies/ngc5128.jpg",
+      "bytes": 171115,
+      "sha256": "5e991eef740809d42fa066edd58c9e38be2b5e5dd5fd1fb16b376680011c925c"
+    },
+    {
+      "path": "assets/galaxies/ngc5128.ktx2",
+      "bytes": 216567,
+      "sha256": "af50b689ca533c8c306654687e6b186340118e2ecc190b26d950da2ba857997c"
+    },
+    {
+      "path": "assets/galaxies/ngc6822-s.jpg",
+      "bytes": 68564,
+      "sha256": "470ff4dd6e418c0e713cc27c3a82226dd7ea147380a8e8ba289080b9e3146734"
+    },
+    {
+      "path": "assets/galaxies/ngc6822-s.ktx2",
+      "bytes": 87500,
+      "sha256": "cd65da920cbbe759a37d92336fcc9281336c7fa4c20e59557ce3388d61a7e818"
+    },
+    {
+      "path": "assets/galaxies/ngc6822.jpg",
+      "bytes": 247871,
+      "sha256": "772728bc95a3db3518994254840b1276223a779b574de527255b45dd407591f3"
+    },
+    {
+      "path": "assets/galaxies/ngc6822.ktx2",
+      "bytes": 243609,
+      "sha256": "8f1faf957a07e98c2db5b72403d69328b6e9d4e39bb15e801d269f925ae54a05"
+    },
+    {
+      "path": "assets/galaxies/ngc891-s.jpg",
+      "bytes": 37659,
+      "sha256": "a2754354701f701ac04c1c400eb19ce2e1c4acd0ece6d0de926a67fbd544e261"
+    },
+    {
+      "path": "assets/galaxies/ngc891-s.ktx2",
+      "bytes": 72704,
+      "sha256": "84e8af286dad10f7d531f13b064a2c9debfec2bbc02a8f63065f0f9dc3920ddc"
+    },
+    {
+      "path": "assets/galaxies/ngc891.jpg",
+      "bytes": 108428,
+      "sha256": "026de1bfb513fa1631d538a0e8a428a9794e5f43b02fafacd4f5eb4864d71219"
+    },
+    {
+      "path": "assets/galaxies/ngc891.ktx2",
+      "bytes": 182056,
+      "sha256": "3ebc83c82acdd14f4f6a3996d627ab2ecd7b8555ec6386a4f338eb87e47558b1"
+    },
+    {
+      "path": "assets/galaxies/smc-s.jpg",
+      "bytes": 164910,
+      "sha256": "32cb5e4c71116775a409a890b0fa04ab524f5be3aca9a24d22730e68e19a43c4"
+    },
+    {
+      "path": "assets/galaxies/smc-s.ktx2",
+      "bytes": 208270,
+      "sha256": "0e21b4a558fbc44e95687bccc99574f8239ee2329316a93f5b0a689b529ebd45"
+    },
+    {
+      "path": "assets/galaxies/smc.jpg",
+      "bytes": 677318,
+      "sha256": "6cf9d25dd778279daf2b6ebb8f1e7c5e6e7e526672367b6a4868d31cdb0ab923"
+    },
+    {
+      "path": "assets/galaxies/smc.ktx2",
+      "bytes": 731291,
+      "sha256": "e69e41ffb755071888a369fd26a45d2d30106b299bc52773a6ff2e6ca56e02ad"
+    },
+    {
+      "path": "assets/galaxies/webb-arp220-s.jpg",
+      "bytes": 19279,
+      "sha256": "07e71552fa144a81cbfd4884ed34b4d7d0d547f5cddc03b1880ae33ee808c4b5"
+    },
+    {
+      "path": "assets/galaxies/webb-arp220-s.ktx2",
+      "bytes": 43823,
+      "sha256": "d57ef24e185c12636d16c65cb99a48da936cff753acf3d557647f25c9654d7af"
+    },
+    {
+      "path": "assets/galaxies/webb-arp220.jpg",
+      "bytes": 74810,
+      "sha256": "4c4bf7eddc728aec94fa0c96a3c87c487f5804d1fb1da7b8a11d106ace1d7d04"
+    },
+    {
+      "path": "assets/galaxies/webb-arp220.ktx2",
+      "bytes": 142402,
+      "sha256": "330b9cf97697507c161cd227dea95603ee3f7ef1d1b4f1e9e323a67c729db1e3"
+    },
+    {
+      "path": "assets/galaxies/webb-cartwheel-s.jpg",
+      "bytes": 35643,
+      "sha256": "ed040ec4daf331de927c4029ee52a059f9d72131a79f65e6c227169e3c68d077"
+    },
+    {
+      "path": "assets/galaxies/webb-cartwheel-s.ktx2",
+      "bytes": 66160,
+      "sha256": "84dbf88a2e9adbd418cec23aa9e7116843faf659d16691b985b6a00dd66bafe2"
+    },
+    {
+      "path": "assets/galaxies/webb-cartwheel.jpg",
+      "bytes": 123370,
+      "sha256": "d92f180a84515ff94fbd1bdfe3963cd6f24479399a680f756b1c00decaf7966c"
+    },
+    {
+      "path": "assets/galaxies/webb-cartwheel.ktx2",
+      "bytes": 192409,
+      "sha256": "54cf9f30f7af82c951dbd8de4102d666e28376cca08b519d226987cf1f7a987a"
+    },
+    {
+      "path": "assets/galaxies/webb-cas_a-s.jpg",
+      "bytes": 54749,
+      "sha256": "932d828c5a389e4068d7a6da97542355158b0c84e781e38aad5ccc479f420d50"
+    },
+    {
+      "path": "assets/galaxies/webb-cas_a-s.ktx2",
+      "bytes": 84055,
+      "sha256": "faa7b70060561da5932166a95a8dc253b2cb97ab4c49c9f623bb1393c27defd5"
+    },
+    {
+      "path": "assets/galaxies/webb-cas_a.jpg",
+      "bytes": 194405,
+      "sha256": "3799ddbc120e37630a8be71e846cc7b06b1629521a36883695bde0bac745ff5f"
+    },
+    {
+      "path": "assets/galaxies/webb-cas_a.ktx2",
+      "bytes": 223932,
+      "sha256": "8d60e93dfb6e4b25d1d118f928a3647e347dafb875edad9b6e3b586f783179fe"
+    },
+    {
+      "path": "assets/galaxies/webb-centaurus_a-s.jpg",
+      "bytes": 31447,
+      "sha256": "77858290dfc8f068a0775bd41fb923ecb2e4f048002554ceb960fcf3addc6890"
+    },
+    {
+      "path": "assets/galaxies/webb-centaurus_a-s.ktx2",
+      "bytes": 72294,
+      "sha256": "cbdbbf32ec37e2162a7e5bd198d8dc437cfd9e206709d23a7ecc6e4cc83aa68a"
+    },
+    {
+      "path": "assets/galaxies/webb-centaurus_a.jpg",
+      "bytes": 173124,
+      "sha256": "2aebbe603f464a110b3a4df4b3117873cea3b56846ebe805273039662b3272ef"
+    },
+    {
+      "path": "assets/galaxies/webb-centaurus_a.ktx2",
+      "bytes": 218941,
+      "sha256": "73b5c53b3e17e3613ec38b3d53692e3f5af6d9b9c6ab7735dceefb680abdfb8a"
+    },
+    {
+      "path": "assets/galaxies/webb-cosmic_cliffs_ngc3324-s.jpg",
+      "bytes": 38497,
+      "sha256": "ad0cc23cf56bae0a63ed5b1d53e411983d96c314891bb516839d43415a6e2a21"
+    },
+    {
+      "path": "assets/galaxies/webb-cosmic_cliffs_ngc3324-s.ktx2",
+      "bytes": 80272,
+      "sha256": "ae3f4af8a21747389cf5684d639dee2630517bd963d35def951b12984d1e15f8"
+    },
+    {
+      "path": "assets/galaxies/webb-cosmic_cliffs_ngc3324.jpg",
+      "bytes": 139407,
+      "sha256": "49948ecbef87a495c7083bddcd15a7c5f543dca3a452493edc47368cc2d57811"
+    },
+    {
+      "path": "assets/galaxies/webb-cosmic_cliffs_ngc3324.ktx2",
+      "bytes": 219425,
+      "sha256": "246a5927b3aca4e83cf9ffbb82e286ba39dd05e0e1cebfc0dda79bf4556bac55"
+    },
+    {
+      "path": "assets/galaxies/webb-crab_m1-s.jpg",
+      "bytes": 49971,
+      "sha256": "39aa830a31a8b2fe1971bc3254f685415347dc7ee4be702572656cdfab988eb2"
+    },
+    {
+      "path": "assets/galaxies/webb-crab_m1-s.ktx2",
+      "bytes": 88465,
+      "sha256": "036205e915d604c640700d43db349e543af3b0532be1b4adc4baf4d44e8f6bec"
+    },
+    {
+      "path": "assets/galaxies/webb-crab_m1.jpg",
+      "bytes": 161380,
+      "sha256": "4988cca35d57253ce274689ca3473cc8da4ba61592037b96408973e9240e0af6"
+    },
+    {
+      "path": "assets/galaxies/webb-crab_m1.ktx2",
+      "bytes": 247645,
+      "sha256": "d6a645b56664a1aa78fc27cae2dd60878d9b6208e71c7715b5546cf513e3e5d7"
+    },
+    {
+      "path": "assets/galaxies/webb-horsehead-s.jpg",
+      "bytes": 28434,
+      "sha256": "f105e226ab567e5e7930a9b9bcb70564e2471ef81ae41a71cfc92e49e9b3c81d"
+    },
+    {
+      "path": "assets/galaxies/webb-horsehead-s.ktx2",
+      "bytes": 58506,
+      "sha256": "3943638b79645493faa1d31e462551eb95e31be533b2c8ead53e717d82d4a8bb"
+    },
+    {
+      "path": "assets/galaxies/webb-horsehead.jpg",
+      "bytes": 84290,
+      "sha256": "4a346b19d4706305e70b4dc231a47e598eff5948aaa4cac82dfeaf397e9c5909"
+    },
+    {
+      "path": "assets/galaxies/webb-horsehead.ktx2",
+      "bytes": 165678,
+      "sha256": "98c113df0639216697dd416463f57a7e61eba2e5449be7bbd55d7a7871bfd71a"
+    },
+    {
+      "path": "assets/galaxies/webb-i_zw_18-s.jpg",
+      "bytes": 26135,
+      "sha256": "b5bb9decbad9cf1129ca0064b6cbb866f25c682dc88bc0d4308b911c3aca43df"
+    },
+    {
+      "path": "assets/galaxies/webb-i_zw_18-s.ktx2",
+      "bytes": 51372,
+      "sha256": "157226bd1f2b77ca5e340df765aa01e12df11d0dbefbaae5c0bdf3489364bf08"
+    },
+    {
+      "path": "assets/galaxies/webb-i_zw_18.jpg",
+      "bytes": 92924,
+      "sha256": "ce4ad5264f516d9996c3a45677fc0ace69c2474d1a338872f417d84ed500edce"
+    },
+    {
+      "path": "assets/galaxies/webb-i_zw_18.ktx2",
+      "bytes": 185275,
+      "sha256": "f7459f3e125daa407d8e61b2bdeaa89a0022330dd656bc00d3aa6c1f7e291b04"
+    },
+    {
+      "path": "assets/galaxies/webb-jupiter-s.jpg",
+      "bytes": 27918,
+      "sha256": "5da5f63838f3c4ad5d0f0988119059da3d9711b13b66e55874af762dd7363034"
+    },
+    {
+      "path": "assets/galaxies/webb-jupiter-s.ktx2",
+      "bytes": 58895,
+      "sha256": "3e02d8e23396e715437bfcc1157cffc58aba395f8b933a15f3f2f1f9319146e0"
+    },
+    {
+      "path": "assets/galaxies/webb-jupiter.jpg",
+      "bytes": 85308,
+      "sha256": "59fc550520702dc7a4d4f56db676bc65647d23f28991e3f7244ee96c0c39a767"
+    },
+    {
+      "path": "assets/galaxies/webb-jupiter.ktx2",
+      "bytes": 170533,
+      "sha256": "63e5e1173ac275fd266a17989ae3549937411eab1ca61751f03d49d0d711ed6a"
+    },
+    {
+      "path": "assets/galaxies/webb-m104-s.jpg",
+      "bytes": 19604,
+      "sha256": "ff4238442f06eceba9b5de7046bd05e73aad5c5292b05dd4dcf2d76639a1b215"
+    },
+    {
+      "path": "assets/galaxies/webb-m104-s.ktx2",
+      "bytes": 50723,
+      "sha256": "1a1c408c1ddded5c92fe99af3f90bdd617fdc659453737f351f5057672b5967c"
+    },
+    {
+      "path": "assets/galaxies/webb-m104.jpg",
+      "bytes": 118316,
+      "sha256": "7e79ad31d0cecbf36f6d03d104fb8d1cd26f32234a1b595d425818ca029cc5a3"
+    },
+    {
+      "path": "assets/galaxies/webb-m104.ktx2",
+      "bytes": 197734,
+      "sha256": "4ef745720c6a693e198d5d072e692ea5f473843e9795b5f387a97ef344bacd22"
+    },
+    {
+      "path": "assets/galaxies/webb-m51-s.jpg",
+      "bytes": 26367,
+      "sha256": "53f26e04f00146cff4d7120bc8cb0a5db6a2e083f7cbbfb4492efd3e805f74df"
+    },
+    {
+      "path": "assets/galaxies/webb-m51-s.ktx2",
+      "bytes": 47490,
+      "sha256": "39095a8dc301c78699a11957f22fdbd7817c585ee75adbb202c75911f44b1ac8"
+    },
+    {
+      "path": "assets/galaxies/webb-m51.jpg",
+      "bytes": 110842,
+      "sha256": "2052f30d8e85c4c3260f6f8c992b81b7f3c1ecea0ad4ab2fa405adb61d23ec98"
+    },
+    {
+      "path": "assets/galaxies/webb-m51.ktx2",
+      "bytes": 143997,
+      "sha256": "56c3c1c20f688f007467197afca5a3cedf2e2e4fe4ccd4e09ab794be6de223ed"
+    },
+    {
+      "path": "assets/galaxies/webb-m74-s.jpg",
+      "bytes": 43587,
+      "sha256": "b14d6c6b9e6f2cf2cdd4484df0b33ee0180fa68a608a8cd235e3a584a8289042"
+    },
+    {
+      "path": "assets/galaxies/webb-m74-s.ktx2",
+      "bytes": 77562,
+      "sha256": "1db6d2a590a2204fcdb3866506978e89f5aeac77453caa051905089471b572af"
+    },
+    {
+      "path": "assets/galaxies/webb-m74.jpg",
+      "bytes": 148073,
+      "sha256": "6c24c16bc992018985782594c7d01ff52ae9161bddcf65f8a763de4d136f1b77"
+    },
+    {
+      "path": "assets/galaxies/webb-m74.ktx2",
+      "bytes": 219506,
+      "sha256": "ae5bc860bc8949daf44df661c9204224e994241e4d4bc0ee20bedc7b407d354e"
+    },
+    {
+      "path": "assets/galaxies/webb-m82-s.jpg",
+      "bytes": 21799,
+      "sha256": "1ba20f6eb1564b7e64457488052977ec40f2929771a5f49561a20182b66ddbf8"
+    },
+    {
+      "path": "assets/galaxies/webb-m82-s.ktx2",
+      "bytes": 57410,
+      "sha256": "7faa9d8e1868ef4a28dcbc257f5b3073c5cb936c8657e37e96bbd27ba29b4996"
+    },
+    {
+      "path": "assets/galaxies/webb-m82.jpg",
+      "bytes": 98575,
+      "sha256": "038a6aba7a2428ef841f1fe7acbb1713ba4dac41a2ad4c5bff65663334fd147c"
+    },
+    {
+      "path": "assets/galaxies/webb-m82.ktx2",
+      "bytes": 177779,
+      "sha256": "697faec9f598d87b552001451cb4369ef4442f8be86aed2aac1d9a7d40fe01f8"
+    },
+    {
+      "path": "assets/galaxies/webb-neptune-s.jpg",
+      "bytes": 12225,
+      "sha256": "a044f4a85284931dfbce9d01b443d5223f65f29f293b7a4a143e2762ae66fbef"
+    },
+    {
+      "path": "assets/galaxies/webb-neptune-s.ktx2",
+      "bytes": 34936,
+      "sha256": "71b73f7779b8e97c5162a2c435ad150dc49f4ba4f50e71a3066f91a5f28180bd"
+    },
+    {
+      "path": "assets/galaxies/webb-neptune.jpg",
+      "bytes": 39485,
+      "sha256": "2778bcf362b5a9f1d1cb5b7fe0c3195f37a0ba89de0d681adae0092b21bde100"
+    },
+    {
+      "path": "assets/galaxies/webb-neptune.ktx2",
+      "bytes": 110156,
+      "sha256": "aaf6186a02ee9dad6fa592a289a056d70a497b84a585402d96c83a2e81e8ace4"
+    },
+    {
+      "path": "assets/galaxies/webb-ngc1300-s.jpg",
+      "bytes": 32861,
+      "sha256": "fe10204849112f4d4b35113510202e0cefcfbd982219a17ce2e718ab2f1b35f7"
+    },
+    {
+      "path": "assets/galaxies/webb-ngc1300-s.ktx2",
+      "bytes": 68811,
+      "sha256": "be3db6332c6710062f7a43949e88c0475c4f4c099ff533d57dde49b22b53a437"
+    },
+    {
+      "path": "assets/galaxies/webb-ngc1300.jpg",
+      "bytes": 116779,
+      "sha256": "40a6b15e2531f5429a55fbfebae9a1a7c8770aa592f856db9d2c40628274d21f"
+    },
+    {
+      "path": "assets/galaxies/webb-ngc1300.ktx2",
+      "bytes": 203842,
+      "sha256": "7a4f6a88902da8b28214653518553d339ec23a19be9bb9bb3c1f731647417fb4"
+    },
+    {
+      "path": "assets/galaxies/webb-ngc1365-s.jpg",
+      "bytes": 39470,
+      "sha256": "0755066b0f1660b1e629fb1701c7600e15b291da1407937cbccfa3b6fec47d12"
+    },
+    {
+      "path": "assets/galaxies/webb-ngc1365-s.ktx2",
+      "bytes": 80539,
+      "sha256": "c7dd7b67057a5aa3e98d10f3e0faa63f441136ba5694dd57c4c5a7f379d712ee"
+    },
+    {
+      "path": "assets/galaxies/webb-ngc1365.jpg",
+      "bytes": 156681,
+      "sha256": "f20e9ee7d9740ca8fcaab84be5d2913ba01beeedd9c3a2379173926bb84ef555"
+    },
+    {
+      "path": "assets/galaxies/webb-ngc1365.ktx2",
+      "bytes": 235112,
+      "sha256": "6ad5ef42478da138a51c3af80a2c9ae6368a4f9addddeaf23d30d30916cee123"
+    },
+    {
+      "path": "assets/galaxies/webb-ngc1433-s.jpg",
+      "bytes": 43409,
+      "sha256": "8c5d26d19dcb0c27db092a632c1a74257644ad5da9d749767e4d13c663d3bad1"
+    },
+    {
+      "path": "assets/galaxies/webb-ngc1433-s.ktx2",
+      "bytes": 81152,
+      "sha256": "e23325a5d6c3da11c41f6af2d12b7c06038d6864126b86008b4a1f54e88d0675"
+    },
+    {
+      "path": "assets/galaxies/webb-ngc1433.jpg",
+      "bytes": 161210,
+      "sha256": "edc1fd6e24ee115e151ddaeab80bc7909084c7aca462edce31d47d8a85c67722"
+    },
+    {
+      "path": "assets/galaxies/webb-ngc1433.ktx2",
+      "bytes": 230941,
+      "sha256": "00e6adb3f4d2f09cdf3b655d30648ca3dbf882a5286e2ff766d0ab52506bfac6"
+    },
+    {
+      "path": "assets/galaxies/webb-ngc346-s.jpg",
+      "bytes": 40887,
+      "sha256": "ce2bc2744aa7f7add3c6b707ffbb7684e357a7b6735de42240decdb917c0c0e2"
+    },
+    {
+      "path": "assets/galaxies/webb-ngc346-s.ktx2",
+      "bytes": 71910,
+      "sha256": "abfa7ea5bb7388db0a3dbe86dee0600e4a1445ee4fb3e0a2e8570647ead62ffc"
+    },
+    {
+      "path": "assets/galaxies/webb-ngc346.jpg",
+      "bytes": 152864,
+      "sha256": "61f153f47c1426c801ae5e045d4b6f3000e33da20f6fddd1afa3031ac3149915"
+    },
+    {
+      "path": "assets/galaxies/webb-ngc346.ktx2",
+      "bytes": 184760,
+      "sha256": "51ffce9d70f423fb5e4414e20e7d9ee77b1f82ceb43b187d22c3f2736f998082"
+    },
+    {
+      "path": "assets/galaxies/webb-ngc7469-s.jpg",
+      "bytes": 21699,
+      "sha256": "ecf4b2e86dbfdff5c2166013c4cb62feee8569c7e96bb6f4d2e0f49c9358468b"
+    },
+    {
+      "path": "assets/galaxies/webb-ngc7469-s.ktx2",
+      "bytes": 46764,
+      "sha256": "bff849fabc190aa49ae2c2188d9a626760c99e980e8cc00ae97cbee91eddf2e5"
+    },
+    {
+      "path": "assets/galaxies/webb-ngc7469.jpg",
+      "bytes": 79100,
+      "sha256": "f3dc53708490d5c250d49f93ea72af5bf166bf3d40c28ef6bbccda242510d9f9"
+    },
+    {
+      "path": "assets/galaxies/webb-ngc7469.ktx2",
+      "bytes": 157764,
+      "sha256": "712039ef89baf2253694a4da70e8984cfc1c48ab364b1417294882930ee70d10"
+    },
+    {
+      "path": "assets/galaxies/webb-orion_bar-s.jpg",
+      "bytes": 41807,
+      "sha256": "f685fee9d115cbae8d2a7ccf34faa2251f98356eeb7415d37ade62bda3da4a88"
+    },
+    {
+      "path": "assets/galaxies/webb-orion_bar-s.ktx2",
+      "bytes": 89444,
+      "sha256": "f39c685bcd01fa78ec9e7b45d0155a2c91404174fa3256112141481102f95a65"
+    },
+    {
+      "path": "assets/galaxies/webb-orion_bar.jpg",
+      "bytes": 127787,
+      "sha256": "3669641741457599e50c00c586ff3187645b8e06fef3619533afd89c71aa126e"
+    },
+    {
+      "path": "assets/galaxies/webb-orion_bar.ktx2",
+      "bytes": 248979,
+      "sha256": "36fc204118b4917470b13e9619984005d274adf0fc829cf1a43f8561fdd13e9c"
+    },
+    {
+      "path": "assets/galaxies/webb-pillars_m16-s.jpg",
+      "bytes": 61893,
+      "sha256": "6a112d477f79f09f5c6f5073a26b42b043dac6929c8bb880691b0c2d328d5c5f"
+    },
+    {
+      "path": "assets/galaxies/webb-pillars_m16-s.ktx2",
+      "bytes": 97077,
+      "sha256": "8bfddaea179edfab4229ec8c34937f3caa96f42b884ae06b469990644bb0df14"
+    },
+    {
+      "path": "assets/galaxies/webb-pillars_m16.jpg",
+      "bytes": 228913,
+      "sha256": "3a3ef73a2f97b69fc0065f2c7fc84b90a635945fb38313d646885b3464091286"
+    },
+    {
+      "path": "assets/galaxies/webb-pillars_m16.ktx2",
+      "bytes": 278181,
+      "sha256": "33f74c940beea3f517d1cfe055d9e97eb28b29ebedda99a67116ec7a37fcde6c"
+    },
+    {
+      "path": "assets/galaxies/webb-rho_ophiuchi-s.jpg",
+      "bytes": 31052,
+      "sha256": "e3c8698545dc5c3de0b23e18b5d336bfdaf5a405ceb3ede2061bd44d1e6298c6"
+    },
+    {
+      "path": "assets/galaxies/webb-rho_ophiuchi-s.ktx2",
+      "bytes": 74181,
+      "sha256": "b8939f4f115a1692836c5319a4a2d450b02302de2f5db9b289d5010ff77fe9ad"
+    },
+    {
+      "path": "assets/galaxies/webb-rho_ophiuchi.jpg",
+      "bytes": 95450,
+      "sha256": "5b5cbaa069f879ef58ab6ecf4b333a73bd64b590072ba8c39d62cae979ed6021"
+    },
+    {
+      "path": "assets/galaxies/webb-rho_ophiuchi.ktx2",
+      "bytes": 202571,
+      "sha256": "3e5e391e0f2eb7c2713b28b3fdbb7b01995ae3c56be4b735d5f27f0b2f376ad0"
+    },
+    {
+      "path": "assets/galaxies/webb-ring_m57-s.jpg",
+      "bytes": 45770,
+      "sha256": "078b52e2073a493bd2e90eecff409ca1115cf0576f25511492e929f20456f5b9"
+    },
+    {
+      "path": "assets/galaxies/webb-ring_m57-s.ktx2",
+      "bytes": 86499,
+      "sha256": "23117d64c6b912eb61c77d2136421d08ff58d1b763e522216f4460292645a1ff"
+    },
+    {
+      "path": "assets/galaxies/webb-ring_m57.jpg",
+      "bytes": 150205,
+      "sha256": "c2c318e53cb098b3396fa20e6ec13d3cbd709180892c173cfe57fcd871ed2144"
+    },
+    {
+      "path": "assets/galaxies/webb-ring_m57.ktx2",
+      "bytes": 233686,
+      "sha256": "0d5764f3a945a233305bfb6fd3f2705a5070fd514987500042fc7c94dabbeac0"
+    },
+    {
+      "path": "assets/galaxies/webb-saturn-s.jpg",
+      "bytes": 4565,
+      "sha256": "795b0935e6e76639ce39ee47d6571bfc3925a471b924c9feebd20f73b9358c73"
+    },
+    {
+      "path": "assets/galaxies/webb-saturn-s.ktx2",
+      "bytes": 7693,
+      "sha256": "ad915c1885559755f0f52a0eebefb496b84d619a90f14bc7cbeed321ee3d5625"
+    },
+    {
+      "path": "assets/galaxies/webb-saturn.jpg",
+      "bytes": 11911,
+      "sha256": "36e43424ae953b7e05a33b3e4c3b5f9361f6f5904498f9eb362aae6a313f1da7"
+    },
+    {
+      "path": "assets/galaxies/webb-saturn.ktx2",
+      "bytes": 19845,
+      "sha256": "49f532426bbb851ef0f51e1f2ba75c6f28746ab7b724edbc2fadd7f7718c4594"
+    },
+    {
+      "path": "assets/galaxies/webb-serpens-s.jpg",
+      "bytes": 28938,
+      "sha256": "4ed9feb66724b57b0a69b145a1629235723974ffe739c9145bf39584de395291"
+    },
+    {
+      "path": "assets/galaxies/webb-serpens-s.ktx2",
+      "bytes": 68310,
+      "sha256": "f3552ed3f0c3ba0d01215ca8dd26c1f803f95f670b773d67bb6af82ed85042e9"
+    },
+    {
+      "path": "assets/galaxies/webb-serpens.jpg",
+      "bytes": 96828,
+      "sha256": "0d4c611ea8465b5ecd5af3fe5cfad9db60767d79dbae00942380b397c68e4a69"
+    },
+    {
+      "path": "assets/galaxies/webb-serpens.ktx2",
+      "bytes": 172192,
+      "sha256": "23e8842df5dee1a24acfb5235679b37ccb3e91ae67f81fc698825195a967e31d"
+    },
+    {
+      "path": "assets/galaxies/webb-southern_ring_ngc3132-s.jpg",
+      "bytes": 32819,
+      "sha256": "5c15b9882694704644dbba2e6383577899532d8cba665b250dcd8b5b06030ee3"
+    },
+    {
+      "path": "assets/galaxies/webb-southern_ring_ngc3132-s.ktx2",
+      "bytes": 62524,
+      "sha256": "41189c213ede799db559e7134b4e64102a3aa93cf04f0e54de94c273656bbaac"
+    },
+    {
+      "path": "assets/galaxies/webb-southern_ring_ngc3132.jpg",
+      "bytes": 106164,
+      "sha256": "2f7f80eb9a5d191d0894abe9227da24ed47e5f39cc2744e9bd078046d5d34a8f"
+    },
+    {
+      "path": "assets/galaxies/webb-southern_ring_ngc3132.ktx2",
+      "bytes": 169208,
+      "sha256": "d410f4f367c74d2b60eac7fa5475dbe15a5cf3c85572edd09f8e3f5e45ae72fc"
+    },
+    {
+      "path": "assets/galaxies/webb-stephans_quintet-s.jpg",
+      "bytes": 40941,
+      "sha256": "c2c3ba8cc33cb41400ea985d8372c862e12b7fe946607fea56d04a4d94ed7bbc"
+    },
+    {
+      "path": "assets/galaxies/webb-stephans_quintet-s.ktx2",
+      "bytes": 73379,
+      "sha256": "0236f8143b6b453fb92e886ad72e89e3618b06f5045e37809f42d19a6cff6edd"
+    },
+    {
+      "path": "assets/galaxies/webb-stephans_quintet.jpg",
+      "bytes": 129607,
+      "sha256": "fafe756c355d55955ccd18b1e23a167e2d002c8def3ed418111dd89da8115d54"
+    },
+    {
+      "path": "assets/galaxies/webb-stephans_quintet.ktx2",
+      "bytes": 182657,
+      "sha256": "8b76f379ac2ffcbe70fb77a26a6d4511bb7066c4b0bf44552d1ef3439a5f4cdb"
+    },
+    {
+      "path": "assets/galaxies/webb-tarantula_30dor-s.jpg",
+      "bytes": 33617,
+      "sha256": "32ab4e3d3828ba400715db6ee189596ad4a3bb37ab4e33a65e71a48424da97a8"
+    },
+    {
+      "path": "assets/galaxies/webb-tarantula_30dor-s.ktx2",
+      "bytes": 75849,
+      "sha256": "91ca8007261272ca27528190d51af40d19511987285c6d66bf23ccf21b2e45c2"
+    },
+    {
+      "path": "assets/galaxies/webb-tarantula_30dor.jpg",
+      "bytes": 119567,
+      "sha256": "ecce715def20a3ca14d00aa25d526b5e0169dba40239a7c2f2f614dadd056ae8"
+    },
+    {
+      "path": "assets/galaxies/webb-tarantula_30dor.ktx2",
+      "bytes": 211764,
+      "sha256": "4af210aa45766e315db90514f444f731a273b69c9dc276c2fcf22d5a8f093645"
+    },
+    {
+      "path": "assets/galaxies/webb-uranus-s.jpg",
+      "bytes": 22923,
+      "sha256": "c1a8d97be89a74f1ac764840cf67682ac92aa363cd69f79f3f4cd9891e7e9f53"
+    },
+    {
+      "path": "assets/galaxies/webb-uranus-s.ktx2",
+      "bytes": 47358,
+      "sha256": "d89189e298122740090e7a66ffd5c18b58ebac44cb8acb2067932fb7764d68bd"
+    },
+    {
+      "path": "assets/galaxies/webb-uranus.jpg",
+      "bytes": 63276,
+      "sha256": "c1f69c9c10fa5dfabe798e2dc87f86fb83503cf3d887e0ccb96808df6a527997"
+    },
+    {
+      "path": "assets/galaxies/webb-uranus.ktx2",
+      "bytes": 139310,
+      "sha256": "d9d401e093a468ab293fe937f43c8c56291090d23b8dc3e680aaf5d6ea559248"
+    },
+    {
+      "path": "assets/galaxies/webb-westerlund1-s.jpg",
+      "bytes": 77786,
+      "sha256": "b2ba7fe830d6ed0496736ad86ed0dcfeb55e21fe8030ba378cec848f5d396012"
+    },
+    {
+      "path": "assets/galaxies/webb-westerlund1-s.ktx2",
+      "bytes": 94325,
+      "sha256": "8d9fb895671844dca57035f578b3619d2b052fac5b7530fbc7b0223524e705d7"
+    },
+    {
+      "path": "assets/galaxies/webb-westerlund1.jpg",
+      "bytes": 307885,
+      "sha256": "ebc2a096f3a6d16b1f3c40099d24211393b2d6bf521bcb7e78676ef18126fe08"
+    },
+    {
+      "path": "assets/galaxies/webb-westerlund1.ktx2",
+      "bytes": 279668,
+      "sha256": "6113988ab65209a84d6814251e82053a664571a071d38dcfc503af5be0446632"
+    },
+    {
+      "path": "assets/galaxies/wlm-s.jpg",
+      "bytes": 35640,
+      "sha256": "fbfe6eb69f882e61cbb259faa974cda1e374d2c5920d5ae3fff061c29cb450c7"
+    },
+    {
+      "path": "assets/galaxies/wlm-s.ktx2",
+      "bytes": 71322,
+      "sha256": "250ff8c163e695c28adb3e9fcc83cc1facae9c19aa9fbc76b6b22e2651242687"
+    },
+    {
+      "path": "assets/galaxies/wlm.jpg",
+      "bytes": 136367,
+      "sha256": "68096abd1596abd1a16dd0c77826e6e69dfc489db65ec309b92069059195590c"
+    },
+    {
+      "path": "assets/galaxies/wlm.ktx2",
+      "bytes": 188908,
+      "sha256": "0a37ef358d72737fb1ac3302cd1e8b98f1f5c15840c428373e11e5504df27bac"
+    },
+    {
+      "path": "assets/giza-120km.jpg",
+      "bytes": 885295,
+      "sha256": "8b57983c337f442cbaab7522d130eae0f15ef0c8f1e727f25af991f8fb79ed1b"
+    },
+    {
+      "path": "assets/giza-120km.ktx2",
+      "bytes": 834945,
+      "sha256": "6a1b3440fb1558257c6e1dce8a38887e14ebda6a5465405b480438ae036cbf05"
+    },
+    {
+      "path": "assets/giza-12km.jpg",
+      "bytes": 606606,
+      "sha256": "ef8106a5faa5145c4781ed2f261f9812abe99f93aeb74fbf338d3b85365ce768"
+    },
+    {
+      "path": "assets/giza-12km.ktx2",
+      "bytes": 824522,
+      "sha256": "b18bbf53fd8a04723bff61ebd0c1b438a6eeea014dda3056ec31cbdc187eb812"
+    },
+    {
+      "path": "assets/skeleton.bin",
+      "bytes": 2108228,
+      "sha256": "2de83bf8d09fb2e3a30c1af68d0d81275cf3c815311e471af7b7bf76f20963b1"
+    },
+    {
+      "path": "assets/skeleton.bin.gz",
+      "bytes": 1569420,
+      "sha256": "314fbdd83ec9ca9870d9b709e3237d136a5b5b211acc1a99bc52d31e896daae4"
+    },
+    {
+      "path": "assets/sky-gaia-2k.jpg",
+      "bytes": 141375,
+      "sha256": "e97c84e641c51a279387863965072ece07b0ca11f3748a85910a997eb653ee40"
+    },
+    {
+      "path": "assets/sky-gaia-2k.ktx2",
+      "bytes": 227853,
+      "sha256": "521251a44e9fc93dd6046fbe017fc3cb784c1261b730cfd7077abd9230c9af5f"
+    },
+    {
+      "path": "assets/sky-gaia.jpg",
+      "bytes": 865619,
+      "sha256": "09101524581323305e2530295d8fd57f3f110e65b6a13724071bccc671c2d6c0"
+    },
+    {
+      "path": "assets/sky-gaia.ktx2",
+      "bytes": 1238965,
+      "sha256": "c00a451edbb101cad530cce275adb1e1d1d081d1762a80fae7286c206bdb0ad1"
+    },
+    {
+      "path": "assets/small-bodies.bin",
+      "bytes": 1080473,
+      "sha256": "386ce4dd180706b6e61867ca0b3448cb91729d8d5cb6c54744992cb8627d5045"
+    },
+    {
+      "path": "assets/small-bodies.bin.gz",
+      "bytes": 929073,
+      "sha256": "c28af8621e77804b40277f0784ccc1eb6f7946afcb6066a8f5f78128ebd78b39"
+    },
+    {
+      "path": "assets/stars.bin",
+      "bytes": 181920,
+      "sha256": "4bfc4f86776522f552bb0bed02fcee67e8f4fdd705f05ab96a299da45900a110"
+    },
+    {
+      "path": "assets/stars.bin.gz",
+      "bytes": 140860,
+      "sha256": "fecc379a3d68585b2acf04efae0d77ee7bbd8e0989b06d48170db60ef7602855"
+    },
+    {
+      "path": "assets/web.bin",
+      "bytes": 3915812,
+      "sha256": "d9c5ce003c377f2bcad52ba4a4b4207a7778ab23a75dfcd028a7bf9fe7a519e3"
+    },
+    {
+      "path": "basis/v2/basis_transcoder.js",
+      "bytes": 58907,
+      "sha256": "35ea593867719ab0d630ee56be1b67e9ebc06e87467655adab8bd903f592b116"
+    },
+    {
+      "path": "basis/v2/basis_transcoder.wasm",
+      "bytes": 527333,
+      "sha256": "6cf17dc889352c42e9acf8897107978d127005fe3386c36a0e3845e27967630a"
+    },
+    {
+      "path": "fonts-ready.js",
+      "bytes": 448,
+      "sha256": "efdb9742ac0d4dcdd12680a70334525acad4974c1c31e3b4bc454c0722b24a38"
+    },
+    {
+      "path": "icon-180.png",
+      "bytes": 5030,
+      "sha256": "4b599832cfb030baf278fc304526d19eb7c9607caef90ec3dce4a48293f6626d"
+    },
+    {
+      "path": "icon.svg",
+      "bytes": 244,
+      "sha256": "14b8684e0cb3a1969ba2d78551c3263477960c518e27084841a5c2b130a51f60"
+    },
+    {
+      "path": "poster-tall.jpg",
+      "bytes": 23555,
+      "sha256": "c8fbd464b2a485341ce6c9399eef006292a1f36e5587e14527ef01f2834e1367"
+    },
+    {
+      "path": "poster-wide.jpg",
+      "bytes": 33042,
+      "sha256": "2553390d480c4db97c3a9059c45eb8e54d61bef296e200de493352ee51de74ce"
+    },
+    {
+      "path": "share.jpg",
+      "bytes": 65579,
+      "sha256": "d6fc5b0ee19aab0a412cce94c1de0a03f57746878c43cb5995aa21e5290eca81"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+/* Chinese typography keeps the original composition and lets small screens wrap naturally. */
+body{font-family:Archivo,"PingFang SC","Hiragino Sans GB","Microsoft YaHei",system-ui,sans-serif;font-stretch:normal}
+#prelude h1,#home .home-title{font-size:clamp(30px,5vw,58px);line-height:1.2;letter-spacing:.02em}
+#prelude .intro{max-width:29em;line-height:1.8;margin-top:16px}
+#note,#jet{white-space:normal;line-height:1.7}
+#home .home-quote{line-height:1.7}
+#closing blockquote{font-size:clamp(20px,3.2vw,36px);line-height:1.7;white-space:normal}
+#closing .centre{max-width:1100px;margin:0 auto}
+#moment-text{line-height:1.6}
+#credits{font-size:12px}
+@media(max-width:700px){#prelude h1,#home .home-title{font-size:clamp(24px,6.5vw,34px);white-space:normal}#prelude .intro{font-size:16px;max-width:23em}#caption{bottom:calc(var(--bottom) + 104px)}.jet-on #caption{bottom:calc(var(--bottom) + 154px)}#closing .centre{top:43%}#closing blockquote{font-size:clamp(18px,4.7vw,24px)}#home .home-quote{font-size:18px}#facts{margin-top:28px}#flyback{margin-top:28px}}
+
+#prelude .intro{text-wrap:balance}
+#ruler .mark:last-of-type{transform:translateX(-100%)}
+@media(max-width:1500px){#ruler .mark.wide{display:none}}
+
+#playback-dock{position:fixed;z-index:11;right:0;top:calc(max(24px,env(safe-area-inset-top)) + 48px);width:24px;height:52px;outline:none}
+#playback-dock:before{content:"";position:absolute;right:4px;top:14px;width:3px;height:24px;border-radius:3px;background:#eef0f54d;transition:opacity .2s ease;pointer-events:none}
+#playback-controls{position:absolute;right:0;top:0;display:flex;align-items:center;gap:4px;padding:4px;border:1px solid #eef0f52b;border-radius:24px;background:#06070bb8;backdrop-filter:blur(12px);color:#e5e9f1;white-space:nowrap;transform:translateX(100%);opacity:0;pointer-events:none;transition:transform .28s var(--ease),opacity .2s ease}
+#playback-dock:hover #playback-controls,#playback-dock:has(:focus-visible) #playback-controls,#playback-dock:focus-visible #playback-controls{transform:translateX(calc(-12px - env(safe-area-inset-right)));opacity:1;pointer-events:auto}
+#playback-dock:hover:before,#playback-dock:has(:focus-visible):before,#playback-dock:focus-visible:before{opacity:0}
+#playback-controls button,#playback-controls select{font:inherit;font-size:13px;line-height:20px;color:inherit;border:0;background:transparent;min-height:36px;cursor:pointer}
+#playback-controls button{padding:6px 12px;border-radius:20px;min-width:100px}
+#playback-controls .narration-button{min-width:72px;border-left:1px solid #eef0f526;border-radius:0 20px 20px 0}
+#playback-controls button:hover{background:#ffffff12}
+#playback-controls button:disabled{opacity:.5;cursor:wait}
+#playback-controls select{padding:6px 8px;border-left:1px solid #eef0f526;border-radius:0 18px 18px 0}
+#playback-controls option{background:#10121b;color:#e5e9f1}
+#playback-controls :focus-visible{outline:2px solid #eef0f5;outline-offset:2px}
+.sr-only{position:absolute;width:1px;height:1px;padding:0;margin:-1px;overflow:hidden;clip-path:inset(50%);white-space:nowrap;border:0}
+/* Keep the original author's menu above the playback pill when expanded. */
+.vt-nav[open]{z-index:12}
+@media(max-width:700px){#playback-controls button{min-width:90px}}
+@media(hover:none){#playback-dock:focus-within #playback-controls{transform:translateX(calc(-12px - env(safe-area-inset-right)));opacity:1;pointer-events:auto}#playback-dock:focus-within:before{opacity:0}}
+@media(prefers-reduced-motion:reduce){#playback-controls,#playback-dock:before{transition:none}}

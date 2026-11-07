@@ -1,0 +1,660 @@
+{
+  "engine": "voicestudio-local",
+  "model": "k2-fsa/OmniVoice",
+  "voice": "OmniVoice synthetic female",
+  "device": "mps",
+  "samplingSteps": 32,
+  "seed": 20261107,
+  "referenceSha256": "60183dc24ade28e4875362d73de51e6da2494bc29d4ab2aa0d3b124540750ed8",
+  "playbackRatePolicy": "natural",
+  "cues": [
+    {
+      "id": 0,
+      "text": "你正站在吉萨金字塔旁",
+      "L": -1,
+      "moment": false,
+      "spokenText": "你正站在吉萨金字塔旁。",
+      "src": "audio/omnivoice/000-female-207f289997be.mp3",
+      "duration": 2.35
+    },
+    {
+      "id": 1,
+      "text": "古代世界七大奇迹中，最古老的这座也是唯一留存至今的",
+      "L": 0.25,
+      "moment": false,
+      "spokenText": "古代世界七大奇迹中，最古老的这座也是唯一留存至今的。",
+      "src": "audio/omnivoice/001-female-ba7277d196ab.mp3",
+      "duration": 5.39
+    },
+    {
+      "id": 2,
+      "text": "这是褪去皮肤与肌肉之后的你",
+      "L": 0.8,
+      "moment": false,
+      "spokenText": "这是褪去皮肤与肌肉之后的你。",
+      "src": "audio/omnivoice/002-female-9788487ffeb2.mp3",
+      "duration": 2.87
+    },
+    {
+      "id": 3,
+      "text": "在不到 2 毫米的皮肤下，成年人都有相同的 206 块骨骼",
+      "L": 0.81,
+      "moment": true,
+      "spokenText": "在不到二毫米的皮肤下，成年人都有相同的二百零六块骨骼。",
+      "src": "audio/omnivoice/003-female-c2614db9731d.mp3",
+      "duration": 5.59
+    },
+    {
+      "id": 4,
+      "text": "所有人类的 DNA 有 99.6% 相同",
+      "L": 0.82,
+      "moment": true,
+      "spokenText": "所有人类的 D N A 有百分之九十九点六相同。",
+      "src": "audio/omnivoice/004-female-200605b395b2.mp3",
+      "duration": 3.92
+    },
+    {
+      "id": 5,
+      "text": "肤色的差异，来自薄如纸张的一层组织",
+      "L": 0.83,
+      "moment": true,
+      "spokenText": "肤色的差异，来自薄如纸张的一层组织。",
+      "src": "audio/omnivoice/005-female-7248f06afa34.mp3",
+      "duration": 3.67
+    },
+    {
+      "id": 6,
+      "text": "今天生活在地球上的 80 亿人，都有着同样的骨架",
+      "L": 0.84,
+      "moment": true,
+      "spokenText": "今天生活在地球上的八十亿人，都有着同样的骨架。",
+      "src": "audio/omnivoice/006-female-85271489e865.mp3",
+      "duration": 4.55
+    },
+    {
+      "id": 7,
+      "text": "建造金字塔的石灰岩，来自 4,500 万年前的海洋贝壳",
+      "L": 1.7,
+      "moment": false,
+      "spokenText": "建造金字塔的石灰岩，来自四千五百万年前的海洋贝壳。",
+      "src": "audio/omnivoice/007-female-8d3583e68b92.mp3",
+      "duration": 5.15
+    },
+    {
+      "id": 8,
+      "text": "大金字塔曾保持世界最高建筑的纪录超过 3,700 年",
+      "L": 2.25,
+      "moment": false,
+      "spokenText": "大金字塔曾保持世界最高建筑的纪录超过三千七百年。",
+      "src": "audio/omnivoice/008-female-1698918acbe6.mp3",
+      "duration": 5.11
+    },
+    {
+      "id": 9,
+      "text": "金字塔建造者居住的小镇，位于狮身人面像以南 400 米",
+      "L": 2.85,
+      "moment": false,
+      "spokenText": "金字塔建造者居住的小镇，位于狮身人面像以南四百米。",
+      "src": "audio/omnivoice/009-female-f69a7ad42b9a.mp3",
+      "duration": 5.19
+    },
+    {
+      "id": 10,
+      "text": "金字塔旁的大开罗地区，生活着 2,300 万人",
+      "L": 3.6,
+      "moment": false,
+      "spokenText": "金字塔旁的大开罗地区，生活着二千三百万人。",
+      "src": "audio/omnivoice/010-female-235f6a660a43.mp3",
+      "duration": 4.17
+    },
+    {
+      "id": 11,
+      "text": "95% 的埃及人生活在尼罗河两岸 20 千米以内",
+      "L": 4.15,
+      "moment": false,
+      "spokenText": "百分之九十五的埃及人生活在尼罗河两岸二十千米以内。",
+      "src": "audio/omnivoice/011-female-aca7148be3fc.mp3",
+      "duration": 5.25
+    },
+    {
+      "id": 12,
+      "text": "向上 100 千米就到了太空：相当于开车垂直向上约一小时",
+      "L": 4.7,
+      "moment": false,
+      "spokenText": "向上一百千米就到了太空：相当于开车垂直向上约一小时。",
+      "src": "audio/omnivoice/012-female-8172ed0afa29.mp3",
+      "duration": 5.4
+    },
+    {
+      "id": 13,
+      "text": "地球上 99% 的空气，都聚集在距地面 30 千米以内",
+      "L": 5.2,
+      "moment": false,
+      "spokenText": "地球上百分之九十九的空气，都聚集在距地面三十千米以内。",
+      "src": "audio/omnivoice/013-female-05a62d8d5fc1.mp3",
+      "duration": 5.45
+    },
+    {
+      "id": 14,
+      "text": "2,250 年前，埃拉托色尼用影子测出了地球的大小",
+      "L": 5.7,
+      "moment": false,
+      "spokenText": "二千二百五十年前，埃拉托色尼用影子测出了地球的大小。",
+      "src": "audio/omnivoice/014-female-46539788cb23.mp3",
+      "duration": 5.31
+    },
+    {
+      "id": 15,
+      "text": "7,000 年前，撒哈拉还是遍布湖泊的草原",
+      "L": 6.2,
+      "moment": false,
+      "spokenText": "七千年前，撒哈拉还是遍布湖泊的草原。",
+      "src": "audio/omnivoice/015-female-d844c1e65235.mp3",
+      "duration": 3.48
+    },
+    {
+      "id": 16,
+      "text": "那些灯光，是从波斯湾延伸到印度的城市",
+      "L": 7.05,
+      "moment": false,
+      "spokenText": "那些灯光，是从波斯湾延伸到印度的城市。",
+      "src": "audio/omnivoice/016-female-ba5ff2b116dd.mp3",
+      "duration": 3.82
+    },
+    {
+      "id": 17,
+      "text": "地球是目前唯一已知存在生命的地方",
+      "L": 7.45,
+      "moment": false,
+      "spokenText": "地球是目前唯一已知存在生命的地方。",
+      "src": "audio/omnivoice/017-female-38adba6c73bc.mp3",
+      "duration": 3.57
+    },
+    {
+      "id": 18,
+      "text": "迄今只有 12 个人曾在月球上行走",
+      "L": 7.85,
+      "moment": false,
+      "spokenText": "迄今只有十二个人曾在月球上行走。",
+      "src": "audio/omnivoice/018-female-be847e751912.mp3",
+      "duration": 3.44
+    },
+    {
+      "id": 19,
+      "text": "2026 年 4 月，阿尔忒弥斯二号宇航员飞到了人类此前未及的远方",
+      "L": 8.55,
+      "moment": false,
+      "spokenText": "二零二六年四月，阿尔忒弥斯二号宇航员飞到了人类此前未及的远方。",
+      "src": "audio/omnivoice/019-female-7e11dff9e9df.mp3",
+      "duration": 6.24
+    },
+    {
+      "id": 20,
+      "text": "当地月相距最远时，其余七颗行星都能排进它们之间",
+      "L": 8.95,
+      "moment": false,
+      "spokenText": "当地月相距最远时，其余七颗行星都能排进它们之间。",
+      "src": "audio/omnivoice/020-female-c6c0676a5018.mp3",
+      "duration": 4.89
+    },
+    {
+      "id": 21,
+      "text": "阳光抵达金字塔，需要 8 分钟",
+      "L": 9.4,
+      "moment": false,
+      "spokenText": "阳光抵达金字塔，需要八分钟。",
+      "src": "audio/omnivoice/021-female-feea7b54ec98.mp3",
+      "duration": 2.76
+    },
+    {
+      "id": 22,
+      "text": "以每小时 100 千米开车前往太阳，需要 170 年",
+      "L": 9.85,
+      "moment": false,
+      "spokenText": "以每小时一百千米开车前往太阳，需要一百七十年。",
+      "src": "audio/omnivoice/022-female-7eb1e05f2b47.mp3",
+      "duration": 4.61
+    },
+    {
+      "id": 23,
+      "text": "太阳内部可以装下 130 万个地球",
+      "L": 10.35,
+      "moment": false,
+      "spokenText": "太阳内部可以装下一百三十万个地球。",
+      "src": "audio/omnivoice/023-female-e9063d48b360.mp3",
+      "duration": 3.36
+    },
+    {
+      "id": 24,
+      "text": "1672 年，天文学家借助火星测出了太阳的距离",
+      "L": 10.95,
+      "moment": false,
+      "spokenText": "一六七二年，天文学家借助火星测出了太阳的距离。",
+      "src": "audio/omnivoice/024-female-7b8c72cba321.mp3",
+      "duration": 4.64
+    },
+    {
+      "id": 25,
+      "text": "火星上的一年，相当于地球上的 687 天",
+      "L": 11.6,
+      "moment": false,
+      "spokenText": "火星上的一年，相当于地球上的六百八十七天。",
+      "src": "audio/omnivoice/025-female-24799f77850a.mp3",
+      "duration": 4.3
+    },
+    {
+      "id": 26,
+      "text": "如果太阳是一扇门，地球就是 215 米外的一枚硬币",
+      "L": 12.15,
+      "moment": false,
+      "spokenText": "如果太阳是一扇门，地球就是二百一十五米外的一枚硬币。",
+      "src": "audio/omnivoice/026-female-5ee14ae73244.mp3",
+      "duration": 5.02
+    },
+    {
+      "id": 27,
+      "text": "太阳与行星占据的空间，不到太阳系的十亿分之一",
+      "L": 12.4,
+      "moment": false,
+      "spokenText": "太阳与行星占据的空间，不到太阳系的十亿分之一。",
+      "src": "audio/omnivoice/027-female-f62e034f669a.mp3",
+      "duration": 4.71
+    },
+    {
+      "id": 28,
+      "text": "1990 年，旅行者一号从这里回望地球，它还不到一个像素",
+      "L": 12.7,
+      "moment": false,
+      "spokenText": "一九九零年，旅行者一号从这里回望地球，它还不到一个像素。",
+      "src": "audio/omnivoice/028-female-973d4b77cb75.mp3",
+      "duration": 5.57
+    },
+    {
+      "id": 29,
+      "text": "海王星上的一年，相当于地球上的 165 年",
+      "L": 12.95,
+      "moment": false,
+      "spokenText": "海王星上的一年，相当于地球上的一百六十五年。",
+      "src": "audio/omnivoice/029-female-602c19395c12.mp3",
+      "duration": 4.44
+    },
+    {
+      "id": 30,
+      "text": "旅行者一号是距离人类最遥远的人造物体",
+      "L": 13.25,
+      "moment": false,
+      "spokenText": "旅行者一号是距离人类最遥远的人造物体。",
+      "src": "audio/omnivoice/030-female-a8d7a7b28d06.mp3",
+      "duration": 4.01
+    },
+    {
+      "id": 31,
+      "text": "旅行者一号以每秒 17 千米穿行虚空，已经走过 49 年",
+      "L": 14.1,
+      "moment": false,
+      "spokenText": "旅行者一号以每秒十七千米穿行虚空，已经走过四十九年。",
+      "src": "audio/omnivoice/031-female-8bd61d89b883.mp3",
+      "duration": 5.33
+    },
+    {
+      "id": 32,
+      "text": "比邻星是最近的恒星，距离我们 4.2 光年",
+      "L": 15.3,
+      "moment": false,
+      "spokenText": "比邻星是最近的恒星，距离我们四点二光年。",
+      "src": "audio/omnivoice/032-female-dd67176e10f7.mp3",
+      "duration": 4.12
+    },
+    {
+      "id": 33,
+      "text": "比邻星离我们约有 31 亿个地球直径那么远",
+      "L": 15.42,
+      "moment": false,
+      "spokenText": "比邻星离我们约有三十一亿个地球直径那么远。",
+      "src": "audio/omnivoice/033-female-239a315fcf28.mp3",
+      "duration": 4.44
+    },
+    {
+      "id": 34,
+      "text": "一光年，约等于 9.5 万亿千米",
+      "L": 15.55,
+      "moment": false,
+      "spokenText": "一光年，约等于九点五万亿千米。",
+      "src": "audio/omnivoice/034-female-488859ce68df.mp3",
+      "duration": 2.96
+    },
+    {
+      "id": 35,
+      "text": "如果太阳是一粒沙，最近的恒星就在 29 千米之外",
+      "L": 15.85,
+      "moment": false,
+      "spokenText": "如果太阳是一粒沙，最近的恒星就在二十九千米之外。",
+      "src": "audio/omnivoice/035-female-f591399c5d15.mp3",
+      "duration": 4.83
+    },
+    {
+      "id": 36,
+      "text": "恒星之间，每立方厘米的空间里大约只有一个原子",
+      "L": 16.1,
+      "moment": false,
+      "spokenText": "恒星之间，每立方厘米的空间里大约只有一个原子。",
+      "src": "audio/omnivoice/036-female-942957e03197.mp3",
+      "duration": 4.7
+    },
+    {
+      "id": 37,
+      "text": "海平面的空气中，每立方厘米有约 250 亿亿个分子",
+      "L": 16.35,
+      "moment": false,
+      "spokenText": "海平面的空气中，每立方厘米有约二百五十亿亿个分子。",
+      "src": "audio/omnivoice/037-female-f96b0b84881a.mp3",
+      "duration": 5.2
+    },
+    {
+      "id": 38,
+      "text": "旅行者一号需要 75,000 年，才能到达最近的恒星",
+      "L": 16.6,
+      "moment": false,
+      "spokenText": "旅行者一号需要七万五千年，才能到达最近的恒星。",
+      "src": "audio/omnivoice/038-female-7cf70106d0e9.mp3",
+      "duration": 4.61
+    },
+    {
+      "id": 39,
+      "text": "1838 年，弗里德里希·贝塞尔首次测出了恒星的距离",
+      "L": 16.85,
+      "moment": false,
+      "spokenText": "一八三八年，弗里德里希·贝塞尔首次测出了恒星的距离。",
+      "src": "audio/omnivoice/039-female-db25178110e1.mp3",
+      "duration": 5.2
+    },
+    {
+      "id": 40,
+      "text": "自 20 世纪 20 年代以来，我们的无线电信号已经走过 100 光年",
+      "L": 17.95,
+      "moment": false,
+      "spokenText": "自二十世纪二十年代以来，我们的无线电信号已经走过一百光年。",
+      "src": "audio/omnivoice/040-female-6547e7f40a84.mp3",
+      "duration": 5.88
+    },
+    {
+      "id": 41,
+      "text": "已发现的 6,000 多颗系外行星中，尚未找到生命",
+      "L": 18.55,
+      "moment": false,
+      "spokenText": "已发现的六千多颗系外行星中，尚未找到生命。",
+      "src": "audio/omnivoice/041-female-84a539d7c841.mp3",
+      "duration": 4.32
+    },
+    {
+      "id": 42,
+      "text": "即使从大爆炸起以每小时 100 千米开车，也只能走过 1,300 光年",
+      "L": 19.05,
+      "moment": false,
+      "spokenText": "即使从大爆炸起以每小时一百千米开车，也只能走过一千三百光年。",
+      "src": "audio/omnivoice/042-female-23c2819ebcec.mp3",
+      "duration": 6.24
+    },
+    {
+      "id": 43,
+      "text": "银河系拥有 1,000 亿至 4,000 亿颗恒星",
+      "L": 19.6,
+      "moment": false,
+      "spokenText": "银河系拥有一千亿至四千亿颗恒星。",
+      "src": "audio/omnivoice/043-female-14648fa5a7e2.mp3",
+      "duration": 3.43
+    },
+    {
+      "id": 44,
+      "text": "银河系中的行星，比恒星还多",
+      "L": 19.75,
+      "moment": false,
+      "spokenText": "银河系中的行星，比恒星还多。",
+      "src": "audio/omnivoice/044-female-5a38098962da.mp3",
+      "duration": 2.79
+    },
+    {
+      "id": 45,
+      "text": "银河系的直径，约等于 74 万亿个地球直径",
+      "L": 19.9,
+      "moment": false,
+      "spokenText": "银河系的直径，约等于七十四万亿个地球直径。",
+      "src": "audio/omnivoice/045-female-1cdeef8f70a8.mp3",
+      "duration": 4.32
+    },
+    {
+      "id": 46,
+      "text": "来自银心的光，在 27,000 年前就已出发",
+      "L": 20.1,
+      "moment": false,
+      "spokenText": "来自银心的光，在二万七千年前就已出发。",
+      "src": "audio/omnivoice/046-female-2469b3aabf0a.mp3",
+      "duration": 3.88
+    },
+    {
+      "id": 47,
+      "text": "1918 年，沙普利证明太阳远离银河系中心",
+      "L": 20.9,
+      "moment": false,
+      "spokenText": "一九一八年，沙普利证明太阳远离银河系中心。",
+      "src": "audio/omnivoice/047-female-f37fdbbe9fa2.mp3",
+      "duration": 4.25
+    },
+    {
+      "id": 48,
+      "text": "银心有一个质量约为太阳 400 万倍的黑洞",
+      "L": 21.25,
+      "moment": false,
+      "spokenText": "银心有一个质量约为太阳四百万倍的黑洞。",
+      "src": "audio/omnivoice/048-female-a5501774c79c.mp3",
+      "duration": 4.08
+    },
+    {
+      "id": 49,
+      "text": "本星系群拥有超过 100 个星系",
+      "L": 22,
+      "moment": false,
+      "spokenText": "本星系群拥有超过一百个星系。",
+      "src": "audio/omnivoice/049-female-ba1e4d305488.mp3",
+      "duration": 2.94
+    },
+    {
+      "id": 50,
+      "text": "仙女座星系离我们约有 1,900 万亿个地球直径那么远",
+      "L": 22.2,
+      "moment": false,
+      "spokenText": "仙女座星系离我们约有一千九百万亿个地球直径那么远。",
+      "src": "audio/omnivoice/050-female-1016b32fb36c.mp3",
+      "duration": 5.19
+    },
+    {
+      "id": 51,
+      "text": "这束光离开仙女座星系时，早期人类还生活在非洲",
+      "L": 22.4,
+      "moment": false,
+      "spokenText": "这束光离开仙女座星系时，早期人类还生活在非洲。",
+      "src": "audio/omnivoice/051-female-6111865e1138.mp3",
+      "duration": 4.75
+    },
+    {
+      "id": 52,
+      "text": "星系相撞时，其中的恒星几乎不会彼此碰撞",
+      "L": 22.6,
+      "moment": false,
+      "spokenText": "星系相撞时，其中的恒星几乎不会彼此碰撞。",
+      "src": "audio/omnivoice/052-female-d9e50d6aba40.mp3",
+      "duration": 4.12
+    },
+    {
+      "id": 53,
+      "text": "1924 年，埃德温·哈勃证明仙女座是另一个星系",
+      "L": 22.8,
+      "moment": false,
+      "spokenText": "一九二四年，埃德温·哈勃证明仙女座是另一个星系。",
+      "src": "audio/omnivoice/053-female-02063e53b71d.mp3",
+      "duration": 4.58
+    },
+    {
+      "id": 54,
+      "text": "如果银河系是一个盘子，仙女座星系就在 6.5 米之外",
+      "L": 23.2,
+      "moment": false,
+      "spokenText": "如果银河系是一个盘子，仙女座星系就在六点五米之外。",
+      "src": "audio/omnivoice/054-female-c99e734e7e8d.mp3",
+      "duration": 5.0
+    },
+    {
+      "id": 55,
+      "text": "本星系群，只是室女座超星系团的一小部分",
+      "L": 23.55,
+      "moment": false,
+      "spokenText": "本星系群，只是室女座超星系团的一小部分。",
+      "src": "audio/omnivoice/055-female-8f81a4032aee.mp3",
+      "duration": 4.06
+    },
+    {
+      "id": 56,
+      "text": "来自室女座星系团的光，在 5,400 万年前就已出发",
+      "L": 23.9,
+      "moment": false,
+      "spokenText": "来自室女座星系团的光，在五千四百万年前就已出发。",
+      "src": "audio/omnivoice/056-female-6a68b6333eba.mp3",
+      "duration": 4.88
+    },
+    {
+      "id": 57,
+      "text": "首个被拍到的黑洞，质量约为太阳的 65 亿倍",
+      "L": 24.2,
+      "moment": false,
+      "spokenText": "首个被拍到的黑洞，质量约为太阳的六十五亿倍。",
+      "src": "audio/omnivoice/057-female-270b51a2ced9.mp3",
+      "duration": 4.42
+    },
+    {
+      "id": 58,
+      "text": "星系聚成绵长的丝状结构，围绕着近乎空无的巨洞",
+      "L": 24.5,
+      "moment": false,
+      "spokenText": "星系聚成绵长的丝状结构，围绕着近乎空无的巨洞。",
+      "src": "audio/omnivoice/058-female-004f29555c15.mp3",
+      "duration": 4.75
+    },
+    {
+      "id": 59,
+      "text": "拉尼亚凯亚容纳着约 10 万个星系",
+      "L": 24.62,
+      "moment": false,
+      "spokenText": "拉尼亚凯亚容纳着约十万个星系。",
+      "src": "audio/omnivoice/059-female-31e6f48364bb.mp3",
+      "duration": 3.13
+    },
+    {
+      "id": 60,
+      "text": "拉尼亚凯亚在夏威夷语中，意为「无尽的天空」",
+      "L": 24.75,
+      "moment": false,
+      "spokenText": "拉尼亚凯亚在夏威夷语中，意为「无尽的天空」。",
+      "src": "audio/omnivoice/060-female-db6af2b68600.mp3",
+      "duration": 4.0
+    },
+    {
+      "id": 61,
+      "text": "那条暗带，是银河系自身的尘埃与恒星遮住了视野",
+      "L": 25,
+      "moment": false,
+      "spokenText": "那条暗带，是银河系自身的尘埃与恒星遮住了视野。",
+      "src": "audio/omnivoice/061-female-26b2aa47bc11.mp3",
+      "duration": 4.7
+    },
+    {
+      "id": 62,
+      "text": "牧夫座空洞横跨 3 亿光年，其中却鲜有星系",
+      "L": 25.2,
+      "moment": false,
+      "spokenText": "牧夫座空洞横跨三亿光年，其中却鲜有星系。",
+      "src": "audio/omnivoice/062-female-89202057597d.mp3",
+      "duration": 4.11
+    },
+    {
+      "id": 63,
+      "text": "普通原子物质，只占宇宙总量的 5%",
+      "L": 25.3,
+      "moment": false,
+      "spokenText": "普通原子物质，只占宇宙总量的百分之五。",
+      "src": "audio/omnivoice/063-female-831794b63785.mp3",
+      "duration": 3.88
+    },
+    {
+      "id": 64,
+      "text": "平均而言，宇宙每五立方米空间里只有一个原子",
+      "L": 25.45,
+      "moment": false,
+      "spokenText": "平均而言，宇宙每五立方米空间里只有一个原子。",
+      "src": "audio/omnivoice/064-female-01c1bba267db.mp3",
+      "duration": 4.42
+    },
+    {
+      "id": 65,
+      "text": "20 世纪 20 年代，勒梅特与哈勃发现宇宙正在膨胀",
+      "L": 25.55,
+      "moment": false,
+      "spokenText": "二十世纪二十年代，勒梅特与哈勃发现宇宙正在膨胀。",
+      "src": "audio/omnivoice/065-female-ec99e6b858fc.mp3",
+      "duration": 4.88
+    },
+    {
+      "id": 66,
+      "text": "这里包含了光曾抵达我们的一切",
+      "L": 25.95,
+      "moment": false,
+      "spokenText": "这里包含了光曾抵达我们的一切。",
+      "src": "audio/omnivoice/066-female-7d7cb0ba9410.mp3",
+      "duration": 3.17
+    },
+    {
+      "id": 67,
+      "text": "由于空间持续膨胀，它如今的直径达 930 亿光年",
+      "L": 26.25,
+      "moment": false,
+      "spokenText": "由于空间持续膨胀，它如今的直径达九百三十亿光年。",
+      "src": "audio/omnivoice/067-female-fe898a57c4b5.mp3",
+      "duration": 4.89
+    },
+    {
+      "id": 68,
+      "text": "可观测宇宙的直径，约等于 6,900 万万亿个地球直径",
+      "L": 26.38,
+      "moment": false,
+      "spokenText": "可观测宇宙的直径，约等于六千九百万万亿个地球直径。",
+      "src": "audio/omnivoice/068-female-a7db3009c922.mp3",
+      "duration": 5.02
+    },
+    {
+      "id": 69,
+      "text": "1965 年，人们意外发现了我们能看到的最古老的光",
+      "L": 26.5,
+      "moment": false,
+      "spokenText": "一九六五年，人们意外发现了我们能看到的最古老的光。",
+      "src": "audio/omnivoice/069-female-a029693edc1a.mp3",
+      "duration": 5.06
+    },
+    {
+      "id": 70,
+      "text": "来自边缘的光在 138 亿年前出发，如今才抵达这里",
+      "L": 27.05,
+      "moment": false,
+      "spokenText": "来自边缘的光在一百三十八亿年前出发，如今才抵达这里。",
+      "src": "audio/omnivoice/070-female-b4212ab67cba.mp3",
+      "duration": 5.38
+    },
+    {
+      "id": 71,
+      "text": "从地球能够看见的一切，都在这个小点之中",
+      "L": 28.2,
+      "moment": false,
+      "spokenText": "从地球能够看见的一切，都在这个小点之中。",
+      "src": "audio/omnivoice/071-female-aa94bd4d7868.mp3",
+      "duration": 3.93
+    }
+  ]
+}

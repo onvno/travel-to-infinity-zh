@@ -1,0 +1,19 @@
+# Local environments and caches
+.venv*/
+__pycache__/
+*.py[cod]
+.DS_Store
+.local/
+.env
+.env.*
+!.env.example
+*.log
+*.partial.*
+
+# Generated QA artifacts; retain the fixed synthetic voice reference
+qa/local-manifest.json
+qa/verification.json
+qa/local-voice/*
+!qa/local-voice/female-reference.wav
+!qa/local-voice/female-reference.json
+original/narration-edge.json

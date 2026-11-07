@@ -1,0 +1,118 @@
+Credits (images modified)
+CC BY 4.0 https://creativecommons.org/licenses/by/4.0/ unless stated
+
+Skeleton: BodyParts3D, (c) The Database Center for Life Science
+Ground: Sentinel-2 cloudless 2016 https://s2maps.eu by EOX IT Services GmbH (contains modified Copernicus Sentinel data 2016)
+Milky Way: ESA/Gaia/DPAC, CC BY-SA 3.0 IGO https://creativecommons.org/licenses/by-sa/3.0/igo/; A. Moitinho, A. F. Silva, M. Barros, C. Barata, H. Savietto
+Cosmic microwave background: ESA and the Planck Collaboration
+
+Galaxies:
+- Large Magellanic Cloud: NOIRLab/NSF/AURA/P. Horálek (Institute of Physics in Opava) https://noirlab.edu/public/images/iotw2547a/
+- Small Magellanic Cloud: NOIRLab/NSF/AURA/P. Horálek (Institute of Physics in Opava) https://noirlab.edu/public/images/iotw2615a/
+- Andromeda: ESA/Hubble & Digitized Sky Survey 2. Acknowledgment: Davide De Martin (ESA/Hubble) https://esahubble.org/images/heic1112f/
+- Triangulum: ESO/Digitized Sky Survey 2. Acknowledgement: Davide De Martin https://www.eso.org/public/images/eso1424c/
+- M110: NOIRLab/NSF/AURA https://noirlab.edu/public/images/noao-m110/
+- Barnard's Galaxy: ESO https://www.eso.org/public/images/eso0938a/
+- IC 10: KPNO/NOIRLab/NSF/AURA Data obtained and processed by: P. Massey (Lowell Obs.), G. Jacoby, K. Olsen, & C. Smith (NOAO/AURA/NSF) Image processing: Travis Rector (University of Alaska Anchorage), Mahdi Zamani & Davide de Martin https://noirlab.edu/public/images/noirlab2013a/
+- IC 1613: ESO Acknowledgement: VST/Omegacam Local Group Survey https://www.eso.org/public/images/eso1603a/
+- WLM: ESO Acknowledgement: VST/Omegacam Local Group Survey https://www.eso.org/public/images/eso1610a/
+- M81: ESA/INT/DSS2 https://esahubble.org/images/heic0401e/
+- Cigar Galaxy: KPNO/NOIRLab/NSF/AURA/Steve Peterson/ Katy Garmany https://noirlab.edu/public/images/noao-m82final/
+- Centaurus A: ESO https://www.eso.org/public/images/eso1221a/
+- Sculptor Galaxy: ESO/INAF-VST Acknowledgement: A. Grado/L. Limatola/INAF-Capodimonte Observatory https://www.eso.org/public/images/eso1152a/
+- Southern Pinwheel Galaxy: ESO https://www.eso.org/public/images/eso0825a/
+- Pinwheel Galaxy: George Jacoby, Bruce Bohannan, Mark Hanna/NOIRLab/NSF/AURA/ https://noirlab.edu/public/images/noao-02881/
+- Whirlpool Galaxy: NOIRLab/NSF/AURA https://noirlab.edu/public/images/noao-02272/
+- Sombrero Galaxy: NOIRLab/NSF/AURA https://noirlab.edu/public/images/noao-02270/
+- M87: KPNO/NOIRLab/NSF/AURA/Adam Block https://noirlab.edu/public/images/noao-m87block/
+- Black Eye Galaxy: NOIRLab/NSF/AURA https://noirlab.edu/public/images/noao-02330/
+- Sunflower Galaxy: N.A.Sharp/NOIRLab/NSF/AURA/ https://noirlab.edu/public/images/noao-m63/
+- M106: N.A.Sharp, REU program/NOIRLab/NSF/AURA/ https://noirlab.edu/public/images/noao-m106/
+- Needle Galaxy: NOIRLab/NSF/AURA https://noirlab.edu/public/images/noao-02286/
+- NGC 891: KPNO/NOIRLab/NSF/AURA Acknowledgments: PI: M.T. Patterson (New Mexico State University) Image processing: Travis Rector (University of Alaska Anchorage), Mahdi Zamani & Davide de Martin https://noirlab.edu/public/images/iotw2023a/
+- NGC 2403: KPNO/NOIRLab/NSF/AURA/M. T. Patterson (New Mexico State University) Image processing: T.A. Rector (University of Alaska Anchorage/NSF NOIRLab), M. Zamani & D. de Martin (NSF NOIRLab) https://noirlab.edu/public/images/iotw2221a/
+- Antennae Galaxies: NOAO/AURA/NSF, B. Twardy, B. Twardy, and A. Block (NOAO) https://esahubble.org/images/heic0615c/
+- NGC 1300: Hillary Mathis/NOIRLab/NSF/AURA https://noirlab.edu/public/images/noao-ngc1300/
+
+Nebulae and star clusters:
+- Orion Nebula (M42): ESO/G. Beccari https://www.eso.org/public/images/eso1723a/
+- Eagle Nebula (M16): ESO/Digitized Sky Survey 2. Acknowledgment: Davide De Martin. https://www.eso.org/public/images/eso1518e/
+- Lagoon Nebula (M8): ESO/Digitized Sky Survey 2 Acknowledgement: Davide De Martin. https://www.eso.org/public/images/eso1403c/
+- Trifid Nebula (M20): NSF–DOE Vera C. Rubin Observatory/NOIRLab/SLAC/AURA https://noirlab.edu/public/images/noirlab2521ah/
+- Carina Nebula (NGC 3372): N. Smith and NOAO/AURA/NSF https://esahubble.org/images/heic0707g/
+- Rosette Nebula (NGC 2244): CTIO/NOIRLab/DOE/NSF/AURA Image Processing: T.A. Rector (University of Alaska Anchorage/NSF NOIRLab), D. de Martin & M. Zamani (NSF NOIRLab) https://noirlab.edu/public/images/noirlab2424a/
+- Helix Nebula (NGC 7293): ESO/VISTA/J. Emerson. Acknowledgment: Cambridge Astronomical Survey Unit https://www.eso.org/public/images/eso1205a/
+- Ring Nebula (M57): NASA, ESA, C. Robert O’Dell (Vanderbilt University), and David Thompson (LBTO) https://esahubble.org/images/heic1310b/
+- Dumbbell Nebula (M27): T.A. Rector (University of Alaska Anchorage) and H. Schweiker (WIYN and NOIRLab/NSF/AURA) https://noirlab.edu/public/images/noao-m27-kpno-mayall-4-m/
+- Crab Nebula (M1): ESO / Manu Mejias https://www.eso.org/public/images/potw1523a/
+- Pleiades (M45): NOIRLab/NSF/AURA/T.A. Rector (University of Alaska Anchorage), R. Cool (University of Arizona) and WIYN https://noirlab.edu/public/images/noao-m45/
+- North America Nebula (NGC 7000): Davide De Martin (ESA/Hubble), the ESA/ESO/NASA Photoshop FITS Liberator & Digitized Sky Survey 2 https://esahubble.org/images/heic0510a/
+- Omega Nebula (M17): ESO/INAF-VST/OmegaCAM. Acknowledgement: OmegaCen/Astro-WISE/Kapteyn Institute https://www.eso.org/public/images/eso1119a/
+- Cat's Eye Nebula (NGC 6543): Nordic Optical Telescope and Romano Corradi (Isaac Newton Group of Telescopes, Spain) https://esahubble.org/images/heic0414b/
+- Horsehead Nebula (Barnard 33): T.A.Rector (NOIRLab/NSF/AURA) and Hubble Heritage Team (STScI/AURA/NASA) https://noirlab.edu/public/images/noao0126a/
+
+James Webb Space Telescope:
+- Pillars of Creation: NASA, ESA, CSA, STScI, J. DePasquale (STScI), A. Pagan (STScI), A. M. Koekemoer (STScI) https://esawebb.org/images/pillarsofcreation_composite/
+- Cosmic Cliffs: NASA, ESA, CSA, and STScI https://esawebb.org/images/weic2205a/
+- Southern Ring Nebula: NASA, ESA, CSA, STScI, and the Webb ERO Production Team https://esawebb.org/images/weic2207b/
+- Ring Nebula: ESA/Webb, NASA, CSA, M. Barlow, N. Cox, R. Wesson https://esawebb.org/images/weic2320b/
+- Crab Nebula: NASA, ESA, CSA, STScI, T. Temim (Princeton University) https://esawebb.org/images/weic2417a/
+- Rho Ophiuchi: NASA, ESA, CSA, STScI, K. Pontoppidan (STScI), A. Pagan (STScI) https://esawebb.org/images/weic2316a/
+- Cassiopeia A: NASA, ESA, CSA, STScI, D. Milisavljevic (Purdue University), T. Temim (Princeton University), I. De Looze (University of Gent) https://esawebb.org/images/weic2330a/
+- Tarantula Nebula: NASA, ESA, CSA, and STScI https://esawebb.org/images/weic2212a/
+- NGC 346: NASA, ESA, CSA, STScI, A. Pagan (STScI) https://esawebb.org/images/weic2301a/
+- Serpens Main: NASA, ESA, CSA, STScI, K. Pontoppidan (NASA’s Jet Propulsion Laboratory), J. Green (Space Telescope Science Institute) https://esawebb.org/images/weic2415a/
+- Westerlund 1: ESA/Webb, NASA & CSA, M. Zamani (ESA/Webb), M. G. Guarcello (INAF-OAPA) and the EWOCS team https://esawebb.org/images/potm2409b/
+- Phantom Galaxy: ESA/Webb, NASA & CSA, J. Lee and the PHANGS-JWST Team. Acknowledgement: J. Schmidt https://esawebb.org/images/potm2208a/
+- Cartwheel Galaxy: NASA, ESA, CSA, STScI https://esawebb.org/images/weic2211a/
+- Stephan's Quintet: NASA, ESA, CSA, and STScI https://esawebb.org/images/weic2208a/
+- Sombrero Galaxy: NASA, ESA, CSA, STScI https://esawebb.org/images/sombrerogalaxy1/
+- Cigar Galaxy: NASA, ESA, CSA, A. Smercina (STScI), T. Williams (University of Manchester). Image processing: A. Pagan (STScI). https://esawebb.org/images/weic2612b/
+- NGC 1365: NASA, ESA, CSA, STScI, J. Lee (STScI), T. Williams (Oxford), PHANGS Team https://esawebb.org/images/weic2403f/
+- NGC 1433: NASA, ESA, CSA, STScI, J. Lee (STScI), T. Williams (Oxford), PHANGS Team https://esawebb.org/images/weic2403h/
+- I Zwicky 18: ESA/Webb, NASA, CSA, A. Hirschauer, M. Meixner et al. https://esawebb.org/images/potm2403b/
+- Arp 220: NASA, ESA, CSA, K. Pontoppidan (STScI), A. Pagan (STScI) https://esawebb.org/images/arp220a/
+- NGC 7469: ESA/Webb, NASA & CSA, L. Armus, A. S. Evans https://esawebb.org/images/potm2212a/
+- Jupiter: NASA, ESA, Jupiter ERS Team; image processing by Judy Schmidt https://esawebb.org/images/jupiter-auroras1/
+- Saturn: NASA, ESA, CSA, STScI, M. Tiscareno (SETI Institute), M. Hedman (University of Idaho), M. El Moutamid (Cornell University), M. Showalter (SETI Institute), L. Fletcher (University of Leicester), H. Hammel (AURA), J. DePasquale (STScI) https://esawebb.org/images/saturn1/
+- Uranus: NASA, ESA, CSA, STScI, J. DePasquale (STScI) https://esawebb.org/images/weic2310a/
+- Neptune: NASA, ESA, CSA, and STScI https://esawebb.org/images/weic2214c/
+
+Deep fields:
+- Hubble Ultra Deep Field: NASA, ESA, and S. Beckwith (STScI) and the HUDF Team https://esahubble.org/images/heic0406a/
+- Hubble eXtreme Deep Field: NASA, ESA, G. Illingworth, D. Magee, and P. Oesch (University of California, Santa Cruz), R. Bouwens (Leiden University), and the HUDF09 Team https://esahubble.org/images/heic1214a/
+- JADES, GOODS-South field around JADES-GS-z13-1 (Webb): ESA/Webb, NASA & CSA, JADES Collaboration, J. Witstok, P. Jakobsen, A. Pagan (STScI), M. Zamani (ESA/Webb) https://esawebb.org/images/weic2505d/
+- Webb's First Deep Field (SMACS 0723): NASA, ESA, CSA, and STScI https://esawebb.org/images/weic2209a/
+- JADES, GOODS-South field (Webb): ESA/Webb, NASA, ESA, CSA, B. Robertson (UC Santa Cruz), B. Johnson (Center for Astrophysics, Harvard & Smithsonian), S. Tacchella (University of Cambridge), M. Rieke (Univ. of Arizona), D. Eisenstein (Center for Astrophysics, Harvard & Smithsonian), A. Pagan (STScI) https://esawebb.org/images/weic2317c/
+- The Hubble Ultra Deep Field seen by Webb (MIDIS): ESA/Webb, NASA & CSA, G. Östlin, P. G. Perez-Gonzalez, J. Melinder, the JADES Collaboration, the MIDIS collaboration, M. Zamani (ESA/Webb) https://esawebb.org/images/potm2507a/
+- Pandora's Cluster, Abell 2744 (Webb): NASA, ESA, CSA, I. Labbe (Swinburne University of Technology), R. Bezanson (University of Pittsburgh), A. Pagan (STScI) https://esawebb.org/images/weic2305a/
+- COSMOS-Web field (Webb), two parts: ESA/Webb, NASA & CSA, G. Gozaliasl, A. Koekemoer, M. Franco, and the COSMOS-Web team https://esawebb.org/images/potm2504a/
+
+
+Software
+three.js
+The MIT License
+Copyright © 2010-2025 three.js authors
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in
+all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
+THE SOFTWARE.
+
+
+Basis Universal transcoder, Copyright Binomial LLC, Apache License 2.0 https://www.apache.org/licenses/LICENSE-2.0
+
+Archivo, copyright 2020 The Archivo Project Authors, SIL Open Font License 1.1 https://openfontlicense.org

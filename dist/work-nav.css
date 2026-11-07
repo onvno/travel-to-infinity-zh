@@ -1,0 +1,4 @@
+.vt-nav{position:fixed;right:max(24px,env(safe-area-inset-right));top:max(24px,env(safe-area-inset-top));z-index:10;color:#eef0f5}
+.vt-nav summary{cursor:pointer;list-style:none;padding:8px;opacity:.7}.vt-nav summary:hover{opacity:1}.vt-nav summary::-webkit-details-marker{display:none}.vt-nav svg{fill:none;stroke:currentColor;stroke-width:1.4}
+.vt-nav nav{position:absolute;right:0;top:42px;display:flex;flex-direction:column;min-width:190px;background:#10121bea;border:1px solid #ffffff20;border-radius:8px;padding:10px;backdrop-filter:blur(14px)}
+.vt-nav a{color:#e4e7ef;text-decoration:none;padding:10px 12px;font-size:14px;white-space:nowrap}.vt-nav a:hover{background:#ffffff10;border-radius:4px}
